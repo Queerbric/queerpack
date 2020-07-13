@@ -110,11 +110,6 @@ file = "mods/netherite-plus-mod-1.1.0.jar"
 hash = "7c4ba70e169ba6935da88fc562e78e6e28e17289f7623e7d42af1da3ecc26a8e"
 
 [[files]]
-file = "mods/netherite-plus-mod.toml"
-hash = "3838840c9ebb91bcc9793f97ac01d085237c1db10de876a03881b9f8a5bab44b"
-metafile = true
-
-[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "008e022b5ac2a28953a44066dee31a15cc3ac4e5b11b86cb04388ffe517c607c"
 metafile = true
