@@ -11,6 +11,11 @@ hash = "04840245fafa05c08363f3d29ade84e085976289ffaa9049046745836b10ac89"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.toml"
+hash = "8b3bef694e69cfeaf053a36c9b639223eee17a6c21dd437c5722d538529c944c"
+metafile = true
+
+[[files]]
 file = "mods/boatfix.toml"
 hash = "56df0d5fc8b100d2991a8464eb2cf315903ce6f0c6daf3ef9a145a3af5bd1680"
 metafile = true
@@ -56,6 +61,11 @@ hash = "9b519bf8a3e9b4b47c1915681e98b6afa414b976dbc881007e9c9561af97a9c5"
 metafile = true
 
 [[files]]
+file = "mods/go-down.toml"
+hash = "f6addaa988e2b83dd3fe54b798d62a40668bfa94d349c001ec1fa3f0aeed29e4"
+metafile = true
+
+[[files]]
 file = "mods/gotta-climb-fast.toml"
 hash = "47aaa9914783ac5579bab08258b15f23ddc314ca0d3bc4f8b70b7aa2c90fd967"
 metafile = true
@@ -94,6 +104,10 @@ metafile = true
 file = "mods/more-paths.toml"
 hash = "7ce3b9fa57bdc28eba460275a62c339f1f0703b01bc62b28a39619af28003423"
 metafile = true
+
+[[files]]
+file = "mods/netherite-plus-mod-1.1.0.jar"
+hash = "7c4ba70e169ba6935da88fc562e78e6e28e17289f7623e7d42af1da3ecc26a8e"
 
 [[files]]
 file = "mods/netherite-plus-mod.toml"
