@@ -1,0 +1,14 @@
+name = "Terrestria"
+filename = "terrestria-2.0.3+build.46.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2997/857/terrestria-2.0.3+build.46.jar"
+hash-format = "murmur2"
+hash = "3917686326"
+
+[update]
+[update.curseforge]
+file-id = 2997857
+project-id = 323974
+release-channel = "beta"

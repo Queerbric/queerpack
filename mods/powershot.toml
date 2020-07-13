@@ -1,0 +1,14 @@
+name = "Powershot"
+filename = "powershot-1.0.0-1.16.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2999/200/powershot-1.0.0-1.16.1-fabric.jar"
+hash-format = "murmur2"
+hash = "1148763402"
+
+[update]
+[update.curseforge]
+file-id = 2999200
+project-id = 391916
+release-channel = "beta"
