@@ -1,0 +1,14 @@
+name = "Gotta Climb Fast!"
+filename = "gottaclimbfast-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2993/125/gottaclimbfast-1.0.jar"
+hash-format = "murmur2"
+hash = "1716291721"
+
+[update]
+[update.curseforge]
+file-id = 2993125
+project-id = 392851
+release-channel = "beta"

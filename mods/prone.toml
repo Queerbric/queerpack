@@ -1,0 +1,14 @@
+name = "prone"
+filename = "prone-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2991/889/prone-0.1.0.jar"
+hash-format = "murmur2"
+hash = "1564658880"
+
+[update]
+[update.curseforge]
+file-id = 2991889
+project-id = 392471
+release-channel = "beta"

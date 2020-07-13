@@ -1,0 +1,14 @@
+name = "Mod Menu"
+filename = "modmenu-1.14.0+build.23.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3002/735/modmenu-1.14.0+build.23.jar"
+hash-format = "murmur2"
+hash = "4168429526"
+
+[update]
+[update.curseforge]
+file-id = 3002735
+project-id = 308702
+release-channel = "beta"
