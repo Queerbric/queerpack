@@ -1,0 +1,14 @@
+name = "Fabric Controlling"
+filename = "fabriccontrolling-1.1.1.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3002/453/fabriccontrolling-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3093424942"
+
+[update]
+[update.curseforge]
+file-id = 3002453
+project-id = 308841
+release-channel = "beta"

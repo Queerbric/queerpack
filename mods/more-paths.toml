@@ -1,0 +1,14 @@
+name = "More Paths"
+filename = "more-paths-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2993/652/more-paths-0.0.2.jar"
+hash-format = "murmur2"
+hash = "3109824464"
+
+[update]
+[update.curseforge]
+file-id = 2993652
+project-id = 392573
+release-channel = "beta"

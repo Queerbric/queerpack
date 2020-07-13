@@ -1,0 +1,14 @@
+name = "Leaf Decay"
+filename = "leaf-decay-1.2.0-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3001/364/leaf-decay-1.2.0-1.16.1.jar"
+hash-format = "murmur2"
+hash = "3217486990"
+
+[update]
+[update.curseforge]
+file-id = 3001364
+project-id = 320528
+release-channel = "beta"

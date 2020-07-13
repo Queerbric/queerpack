@@ -1,0 +1,19 @@
+name = "'Slight' Gui Modifications"
+filename = "slight-gui-modifications-1.1.1.jar"
+side = "client"
+
+[option]
+optional = false
+description = "Allows 'slight' gui modifications"
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/2999/388/slight-gui-modifications-1.1.1.jar"
+hash-format = "murmur2"
+hash = "3876144596"
+
+[update]
+[update.curseforge]
+file-id = 2999388
+project-id = 380393
+release-channel = "beta"

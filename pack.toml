@@ -1,0 +1,11 @@
+name = "Queerpack"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17ecb95a272be29d8a345f0c66702587c83983272675dd00095e73887b5ceb4e"
+
+[versions]
+fabric = "0.8.9+build.203"
+minecraft = "1.16.1"
+yarn = "1.16.1+build.21"

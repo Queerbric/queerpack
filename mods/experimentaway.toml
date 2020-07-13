@@ -1,0 +1,14 @@
+name = "ExperimentAway"
+filename = "experimentaway-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2988/81/experimentaway-1.0.0.jar"
+hash-format = "murmur2"
+hash = "3229590101"
+
+[update]
+[update.curseforge]
+file-id = 2988081
+project-id = 391723
+release-channel = "beta"

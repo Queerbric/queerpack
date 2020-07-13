@@ -1,0 +1,19 @@
+name = "Smooth Scrolling Everywhere (Fabric)"
+filename = "SmoothScrollingEverywhere-3.0.3-unstable.jar"
+side = "client"
+
+[option]
+optional = false
+description = "Adds smooth scrolling to every list."
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/2963/760/SmoothScrollingEverywhere-3.0.3-unstable.jar"
+hash-format = "murmur2"
+hash = "4128528944"
+
+[update]
+[update.curseforge]
+file-id = 2963760
+project-id = 325861
+release-channel = "beta"
