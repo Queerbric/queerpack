@@ -6,6 +6,11 @@ hash = "21c63b243f168d3210101a0a4db8162caf98822ff6dea962d9f328464ef642b4"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.toml"
+hash = "04840245fafa05c08363f3d29ade84e085976289ffaa9049046745836b10ac89"
+metafile = true
+
+[[files]]
 file = "mods/boatfix.toml"
 hash = "56df0d5fc8b100d2991a8464eb2cf315903ce6f0c6daf3ef9a145a3af5bd1680"
 metafile = true
@@ -18,6 +23,11 @@ metafile = true
 [[files]]
 file = "mods/cinderscapes.toml"
 hash = "894bd24134330043aef612da466bc10fea2e2b3c6bc2eeace8299895e131791e"
+metafile = true
+
+[[files]]
+file = "mods/columns.toml"
+hash = "9822ddb12d7e161e316cba4032899e0210a3e289dbc1fcf69aa2c491ef1f5487"
 metafile = true
 
 [[files]]
@@ -86,6 +96,11 @@ hash = "7ce3b9fa57bdc28eba460275a62c339f1f0703b01bc62b28a39619af28003423"
 metafile = true
 
 [[files]]
+file = "mods/netherite-plus-mod.toml"
+hash = "3838840c9ebb91bcc9793f97ac01d085237c1db10de876a03881b9f8a5bab44b"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
 hash = "008e022b5ac2a28953a44066dee31a15cc3ac4e5b11b86cb04388ffe517c607c"
 metafile = true
@@ -93,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/on-soul-fire.toml"
 hash = "b9176ef87e51bfa35b09690a88fd7bcc217b9c6ba802878077aa31ee296daf1f"
+metafile = true
+
+[[files]]
+file = "mods/painting-cycle.toml"
+hash = "021b5e795511472c5bce8a390c0776cef5e8d226806fc4a1efaa3aa34d626b7f"
 metafile = true
 
 [[files]]

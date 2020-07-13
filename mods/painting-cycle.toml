@@ -1,0 +1,14 @@
+name = "Painting Cycle"
+filename = "paintingcycle-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2991/903/paintingcycle-1.0.0.jar"
+hash-format = "murmur2"
+hash = "1873011561"
+
+[update]
+[update.curseforge]
+file-id = 2991903
+project-id = 392584
+release-channel = "beta"
