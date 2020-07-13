@@ -126,11 +126,6 @@ hash = "72b8f602d254566ec6c758156af2d00dd4ac2c5497daf19525d078e02683425d"
 metafile = true
 
 [[files]]
-file = "mods/prone.toml"
-hash = "2b963b18bd38c3e2291dd91329fcf8de1ad77050cfed655baebe6362040da6d1"
-metafile = true
-
-[[files]]
 file = "mods/roughly-enough-items.toml"
 hash = "650ae756c74c5a3e706dd954b3911344575dcd6834d74a1bbe0e47b0707a292a"
 metafile = true
