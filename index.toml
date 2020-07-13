@@ -1,26 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/WindowTitleChanger/config.json5"
-hash = "03df66490b396ee08a0ca10a95f67a7776acc8a1334d96bb14910b2a3f42a142"
-
-[[files]]
-file = "config/WindowTitleChanger/icons/rainbric16.png"
-hash = "260fb54bd3b98af68a116a6245b4f32c314f0e619cf2b3424619c3eebf6e551a"
-
-[[files]]
-file = "config/WindowTitleChanger/icons/rainbric32.png"
-hash = "fcd2c7c2784dec464f4f124b3f21478c7a2a566c31b1f05c3d8926781b0cfb33"
-
-[[files]]
-file = "config/duyguji/vanilla.txt"
-hash = "2d972bee8fec47a965f0c6f064d7430ac835561e0a7f0437e552041644acec59"
-
-[[files]]
-file = "config/gotta_climb_fast.json"
-hash = "72b2d2de035a470a302e7c711b87ee4db20b0a2bad43a7e4426aed18e639bfc4"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "dac021698185762830ceeb7414f771e02882c368caed0b377a058ab69aacc6d1"
 metafile = true
