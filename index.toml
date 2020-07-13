@@ -21,14 +21,6 @@ file = "config/gotta_climb_fast.json"
 hash = "72b2d2de035a470a302e7c711b87ee4db20b0a2bad43a7e4426aed18e639bfc4"
 
 [[files]]
-file = "icon_queerpack.png"
-hash = "3e9edb14b2ec9601457afd1e7210c0f2fa1b09ad74736ee38fe680982b337db1"
-
-[[files]]
-file = "instance.cfg"
-hash = "742ef075908ef4440a3e30aa561c1154ec5a7cded3e7ea68b01b5f8318392cf8"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "dac021698185762830ceeb7414f771e02882c368caed0b377a058ab69aacc6d1"
 metafile = true
