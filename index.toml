@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "767485ca26555830530575bb8ec7499c66a38f7c3d8719d7560bdf54fd203d33"
-
-[[files]]
 file = "mods/adorn.toml"
 hash = "21c63b243f168d3210101a0a4db8162caf98822ff6dea962d9f328464ef642b4"
 metafile = true

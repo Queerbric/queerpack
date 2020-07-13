@@ -1,2 +1,0 @@
-# queerpack
-A vanilla# modpack
