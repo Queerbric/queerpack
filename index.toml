@@ -1,191 +1,175 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/WindowTitleChanger/config.json5"
-hash = "03df66490b396ee08a0ca10a95f67a7776acc8a1334d96bb14910b2a3f42a142"
-
-[[files]]
-file = "config/WindowTitleChanger/icons/rainbric16.png"
-hash = "260fb54bd3b98af68a116a6245b4f32c314f0e619cf2b3424619c3eebf6e551a"
-
-[[files]]
-file = "config/WindowTitleChanger/icons/rainbric32.png"
-hash = "fcd2c7c2784dec464f4f124b3f21478c7a2a566c31b1f05c3d8926781b0cfb33"
-
-[[files]]
-file = "config/duyguji/vanilla.txt"
-hash = "2d972bee8fec47a965f0c6f064d7430ac835561e0a7f0437e552041644acec59"
-
-[[files]]
-file = "config/gotta_climb_fast.json"
-hash = "72b2d2de035a470a302e7c711b87ee4db20b0a2bad43a7e4426aed18e639bfc4"
+file = "LICENSE"
+hash = "767485ca26555830530575bb8ec7499c66a38f7c3d8719d7560bdf54fd203d33"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "dac021698185762830ceeb7414f771e02882c368caed0b377a058ab69aacc6d1"
+hash = "21c63b243f168d3210101a0a4db8162caf98822ff6dea962d9f328464ef642b4"
 metafile = true
 
 [[files]]
 file = "mods/boatfix.toml"
-hash = "b9fd3f99db51e6077006449693eb673fda21e012493e5f7073cf4efa16f055b8"
+hash = "56df0d5fc8b100d2991a8464eb2cf315903ce6f0c6daf3ef9a145a3af5bd1680"
 metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "b7936a1a56f97a635ee46cee4753ce7ccc37e7af783b021d36f45ded086a4db8"
+hash = "0466840d6e6abf48a53421352118b3e4ceb90043141fd2908c41768def163aa9"
 metafile = true
 
 [[files]]
 file = "mods/cinderscapes.toml"
-hash = "73b730a8d04f7810de0f43e4df9c2f95c38e37a410e9498ea9cdea65c8a5208e"
+hash = "894bd24134330043aef612da466bc10fea2e2b3c6bc2eeace8299895e131791e"
 metafile = true
 
 [[files]]
 file = "mods/duyguji.toml"
-hash = "929fd43cb8a07f7033b18ae0a1f1d3e09ee41fe19087689ee12530b8c15302f4"
+hash = "b2dc7f816c4bd5ec40a4d144147a40debee2ce1c8edc440f84b148f6d537a418"
 metafile = true
 
 [[files]]
 file = "mods/experimentaway.toml"
-hash = "7bdbafde33d7a1ec8fc2bf515bd13befa1938a83e04417753681c7979ca86150"
+hash = "73ea86a49cc593ce9f8b2eb61c648d4d8a379a34d7a0f473fdd2ded7c3d93115"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3006e430767fdb9885fa0b012019458f4e52163714a67b9a4b68e9f190843b81"
+hash = "f93b25fd243defc9b1bf6e6639646283c62e40c75fc166f5bb2f1875de5be572"
 metafile = true
 
 [[files]]
 file = "mods/fabric-controlling.toml"
-hash = "2a4f47c42824699c07a7c42d4b37be176a1a8de0b86d4d82e994ce8b01ae2ecf"
+hash = "5abd01da6e573e49c5437e8e54183d9f67c136b452919a359f5208f633492346"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.toml"
-hash = "098c02d2b43386971d803f2931d9dd5e59cd3a614b6877409c41d63566337496"
+hash = "9b519bf8a3e9b4b47c1915681e98b6afa414b976dbc881007e9c9561af97a9c5"
 metafile = true
 
 [[files]]
 file = "mods/gotta-climb-fast.toml"
-hash = "b15b3875609116ca634c89f0a957cb2a135c98e1137d0b6ebee577360b793cce"
+hash = "47aaa9914783ac5579bab08258b15f23ddc314ca0d3bc4f8b70b7aa2c90fd967"
 metafile = true
 
 [[files]]
 file = "mods/improved-stations.toml"
-hash = "0e7f3379e802c9dcf50d85b52ee24a57f8d054b1f1676abeaa04a5dbc69fe514"
+hash = "aa8e612c7011a1823410e1c4d9af3b0fbd636d9015cdda196fbdab1686c04298"
 metafile = true
 
 [[files]]
 file = "mods/inventory-sorting.toml"
-hash = "7aa786ae4397a866726d28967621c94dd1212e6fa7fa8395b1a05b91a0186f52"
+hash = "af8fd305e0e6fd392efd092328e6b702d8a4cfeadd39bac5f1b184b1dbe4ea14"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "d56c67a147ad9a557161fdc75621d1fed1f292dee7faa33eb99827363af15a33"
+hash = "7c6e2e65eb802600aeb2bfd45328ae85d719300f9befc9ece5940655bf62d31c"
 metafile = true
 
 [[files]]
 file = "mods/leaf-decay.toml"
-hash = "fba0adc449f136c6cc3a826afb17b6c684ed85313b873a26bc6b053b6ffd8fc0"
+hash = "fe8607e5cf509fbacb7061bff230a9c5d3c94dca327c096cd307f0f8da3739ce"
 metafile = true
 
 [[files]]
 file = "mods/lithium.toml"
-hash = "284268d4664385cb7e10315cdca4752036f6ecadbe6fb5f1b4e6a7031eb2cb80"
+hash = "88c449ed536c045b2734cfbd6749466403ac0acd4f29940bc50493d3be15cc9d"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "3aa7d8e8d886ec1816670e6cded3ac80c786e8f0105a2a7c77c3744bb43b5661"
+hash = "4fe6b1a844ad7b6774b2ba23c2288fefca87c82250d4e94494be9ebb7b53c63c"
 metafile = true
 
 [[files]]
 file = "mods/more-paths.toml"
-hash = "05a8671804062045882844606772319165f8c21f11ee062b6b82300c363c8311"
+hash = "7ce3b9fa57bdc28eba460275a62c339f1f0703b01bc62b28a39619af28003423"
 metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "69a40403b18d6113ae8c61517bfaedb449af739db7079db2d896c311a975fd72"
+hash = "008e022b5ac2a28953a44066dee31a15cc3ac4e5b11b86cb04388ffe517c607c"
 metafile = true
 
 [[files]]
 file = "mods/on-soul-fire.toml"
-hash = "778b27de641910f838c43452385ae173c09898e4abd4616930f6677e2715fc27"
+hash = "b9176ef87e51bfa35b09690a88fd7bcc217b9c6ba802878077aa31ee296daf1f"
 metafile = true
 
 [[files]]
 file = "mods/phosphor.toml"
-hash = "e093411e2372acb0c772b4b8716b1a193343bebdfcd2fdb818fef9815f3b2a11"
+hash = "f767ee4b9cfd06fba3e434975438206c9d9b6625e839c927dc54bd86f6b41eac"
 metafile = true
 
 [[files]]
 file = "mods/powershot.toml"
-hash = "292d6d7f25d980c14bc06bac3f2da1d80fe43612f8715a2e46f72221e2337a51"
+hash = "72b8f602d254566ec6c758156af2d00dd4ac2c5497daf19525d078e02683425d"
 metafile = true
 
 [[files]]
 file = "mods/prone.toml"
-hash = "aa135aeb91b22b0ae9e6dc01221d3cb65566d0cb6f05d7d8690f2a9f4b3d6717"
+hash = "2b963b18bd38c3e2291dd91329fcf8de1ad77050cfed655baebe6362040da6d1"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "4f7e9284a707ce6f34c4877929ca4781454bc5b5089ecc26aa2af3ef4644e368"
+hash = "650ae756c74c5a3e706dd954b3911344575dcd6834d74a1bbe0e47b0707a292a"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-resources.toml"
-hash = "35f2cbae0858011226f622c752a5e56f42bc604ebe95d3caabb5cdef52788d42"
+hash = "26fd915d060d8a57e1a56a00a7432b85d00df945c20de1a06655ab1a2becb31a"
 metafile = true
 
 [[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "775a550f20be21cf3f286909dcdfa9e6d509164f4b463efb8e47035a2e0c3e6a"
+hash = "8dc67bdc41baa2a556bbd119d952c071a6c46171675abe5b98ee86d7da93fb12"
 metafile = true
 
 [[files]]
 file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "9fc0607c386cc9bf204d239f812476d4189554be53b497ae758a146092cca778"
+hash = "9b073facd240cba115d4fdee1f97b52dd6e0ec12d180c439440ad03b20869415"
 metafile = true
 
 [[files]]
 file = "mods/snowy-leaves.toml"
-hash = "370fa02c460cc0a98cf4de9eab6ac2265652d8b044f8c8695ae664a8a4351a67"
+hash = "cd2f988b747fd9a80dcb8dd8cd2687291db6c9a8087f8882e647774c323c0409"
 metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
-hash = "87cb3e8bf9039b17adbb6579900c38aba446c7d9bd8470ab1cc104e0de9c00be"
+hash = "62cbd705e4b44a4eee83f62c8974f2a2481740399e5c1b800e2e801293346150"
 metafile = true
 
 [[files]]
 file = "mods/terrestria.toml"
-hash = "007f85cd78ccd771297b8e5b0d284c9e96ece6a611a46e0f39f8e8def5a11d36"
+hash = "cc2e6f02811248b468e2108da67001e1e64c814640ad937f237f3c1310a254ab"
 metafile = true
 
 [[files]]
 file = "mods/traverse.toml"
-hash = "312115948db37959fdb807c30c9e9516745d8f31e6d037c7ab00a737a78acb96"
+hash = "ccf6dc37bee45bc83c64a0158acbb6ae9579028c0b49e99a5f07e769c96a125f"
 metafile = true
 
 [[files]]
 file = "mods/unbad-redstone.toml"
-hash = "af9ad3f27ccb5284d7046ec29f4dea9c492a9170c29158da064a44d301c2d7ac"
+hash = "5c33f6b1ce3caaa16dc30c90ad4f7e53ca3de9bafa4072ab8bcaaecb14c4be1c"
 metafile = true
 
 [[files]]
 file = "mods/window-title-changer.toml"
-hash = "c7f1668474ab4392468a73be94de8fd36d4202955644f3c9747ddbc75451b9b8"
+hash = "deb357a94eada7fa135b55afc2f28c3d6bec516ec20db8dba62f0ebee0a11877"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "3d48261529f91cec190c1d36261c72ae0a3bd3260382edceb1da0b5ec664c2df"
+hash = "27958e8aa8f0fdb8c02adef9f8da0a7a6c516c66adc578cfbcdfa72c407fe142"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "7474605572925407393fd8b838eae29d3664c1c7cf67fb3bf0422ac748c7960b"
+hash = "af82c86ed65498e74b2b7be1f636a8fc28df20fd4d0b63514fb1bfb96ee60d8c"
 metafile = true
