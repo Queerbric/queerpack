@@ -1,12 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/WindowTitleChanger/config.json5"
+hash = "03df66490b396ee08a0ca10a95f67a7776acc8a1334d96bb14910b2a3f42a142"
+
+[[files]]
+file = "config/WindowTitleChanger/icons/rainbric16.png"
+hash = "260fb54bd3b98af68a116a6245b4f32c314f0e619cf2b3424619c3eebf6e551a"
+
+[[files]]
+file = "config/WindowTitleChanger/icons/rainbric32.png"
+hash = "fcd2c7c2784dec464f4f124b3f21478c7a2a566c31b1f05c3d8926781b0cfb33"
+
+[[files]]
+file = "config/duyguji/vanilla.txt"
+hash = "2d972bee8fec47a965f0c6f064d7430ac835561e0a7f0437e552041644acec59"
+
+[[files]]
+file = "config/gotta_climb_fast.json"
+hash = "72b2d2de035a470a302e7c711b87ee4db20b0a2bad43a7e4426aed18e639bfc4"
+
+[[files]]
 file = "config/slightguimodifications/config.json5"
 hash = "648d57d60a8a399d36100dd477a2a98465b81dafa9909522b441c8bf153b94ce"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "846f622c84bc45148b389ca94ef9eaf0eb04c5d3a562815bf5d675a48b5a6b64"
+hash = "7cf224e47866bdca7829415fa7cf62834a76f7ad080df39f3e9d1fffcdda948a"
 
 [[files]]
 file = "mods/adorn.toml"
