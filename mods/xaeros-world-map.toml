@@ -1,6 +1,11 @@
 name = "Xaero's World Map"
 filename = "XaerosWorldMap_1.7.4_Fabric_1.16.1.jar"
-side = "both"
+side = "client"
+
+[option]
+optional = true
+description = "Adds a fullscreen worldmap which shows you what you have explored in the world. Works as a separate mod but is a lot better with Xaero's Minimap"
+default = false
 
 [download]
 url = "https://edge.forgecdn.net/files/3005/407/XaerosWorldMap_1.7.4_Fabric_1.16.1.jar"

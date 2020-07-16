@@ -1,7 +1,11 @@
 name = "Xaero's Minimap"
 filename = "Xaeros_Minimap_20.16.0.1_Fabric_1.16.1.jar"
-side = "both"
+side = "client"
 
+[option]
+optional = true
+description = "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Works as a separate mod but is a lot better with Xaero's World Map"
+default = false
 [download]
 url = "https://edge.forgecdn.net/files/3005/395/Xaeros_Minimap_20.16.0.1_Fabric_1.16.1.jar"
 hash-format = "murmur2"
