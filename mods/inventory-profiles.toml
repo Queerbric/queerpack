@@ -1,0 +1,14 @@
+name = "Inventory Profiles"
+filename = "inventoryprofiles-fabric-1.16.1-0.4.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3005/22/inventoryprofiles-fabric-1.16.1-0.4.2.jar"
+hash-format = "murmur2"
+hash = "440351803"
+
+[update]
+[update.curseforge]
+file-id = 3005022
+project-id = 347463
+release-channel = "beta"

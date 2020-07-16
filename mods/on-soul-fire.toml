@@ -1,14 +1,14 @@
 name = "On Soul Fire"
-filename = "onsoulfire-r1.jar"
+filename = "onsoulfire-r3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3000/790/onsoulfire-r1.jar"
+url = "https://edge.forgecdn.net/files/3004/142/onsoulfire-r3.jar"
 hash-format = "murmur2"
-hash = "4076842525"
+hash = "44138237"
 
 [update]
 [update.curseforge]
-file-id = 3000790
+file-id = 3004142
 project-id = 394667
 release-channel = "beta"

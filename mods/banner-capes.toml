@@ -1,0 +1,14 @@
+name = "Banner Capes"
+filename = "banner_capes-0.2.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3002/310/banner_capes-0.2.1.jar"
+hash-format = "murmur2"
+hash = "1278442195"
+
+[update]
+[update.curseforge]
+file-id = 3002310
+project-id = 376768
+release-channel = "beta"

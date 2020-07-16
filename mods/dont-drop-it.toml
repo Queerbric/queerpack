@@ -1,0 +1,19 @@
+name = "Don't Drop It!"
+filename = "dontdropit-1.1.0+1.16.jar"
+side = "client"
+
+[option]
+optional = true
+description = "Prevents accidental dropping of items via various means."
+default = false
+
+[download]
+url = "https://edge.forgecdn.net/files/3004/514/dontdropit-1.1.0+1.16.jar"
+hash-format = "murmur2"
+hash = "785862685"
+
+[update]
+[update.curseforge]
+file-id = 3004514
+project-id = 390383
+release-channel = "beta"

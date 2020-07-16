@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/slightguimodifications/config.json5"
+hash = "648d57d60a8a399d36100dd477a2a98465b81dafa9909522b441c8bf153b94ce"
+
+[[files]]
+file = "config/slightguimodifications/cts.groovy"
+hash = "846f622c84bc45148b389ca94ef9eaf0eb04c5d3a562815bf5d675a48b5a6b64"
+
+[[files]]
 file = "mods/adorn.toml"
 hash = "21c63b243f168d3210101a0a4db8162caf98822ff6dea962d9f328464ef642b4"
 metafile = true
@@ -8,6 +16,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.toml"
 hash = "04840245fafa05c08363f3d29ade84e085976289ffaa9049046745836b10ac89"
+metafile = true
+
+[[files]]
+file = "mods/banner-capes.toml"
+hash = "dd8726f646752bb6aa5bc0db71fcaba08d430e1eec9f04eb04a706d2fb3d61f6"
 metafile = true
 
 [[files]]
@@ -33,6 +46,16 @@ metafile = true
 [[files]]
 file = "mods/columns.toml"
 hash = "9822ddb12d7e161e316cba4032899e0210a3e289dbc1fcf69aa2c491ef1f5487"
+metafile = true
+
+[[files]]
+file = "mods/couplings-for-fabric-updated.toml"
+hash = "7e03660af643d475eeb04074dbbc8bfc3dc75ad1704a3e6837acdab96c9e7d7e"
+metafile = true
+
+[[files]]
+file = "mods/dont-drop-it.toml"
+hash = "10af2b7b26a59b9931b35dbc2a3a4b7296ae0632f68e212f5b2373bf9fd73dec"
 metafile = true
 
 [[files]]
@@ -76,18 +99,23 @@ hash = "aa8e612c7011a1823410e1c4d9af3b0fbd636d9015cdda196fbdab1686c04298"
 metafile = true
 
 [[files]]
-file = "mods/inventory-sorting.toml"
-hash = "af8fd305e0e6fd392efd092328e6b702d8a4cfeadd39bac5f1b184b1dbe4ea14"
+file = "mods/inventory-profiles.toml"
+hash = "97bc78447b81333b5a46e98a1b856fb521a89f6964f8afc101963ae163a19c71"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.toml"
-hash = "7c6e2e65eb802600aeb2bfd45328ae85d719300f9befc9ece5940655bf62d31c"
+hash = "0951ea11f0fb65f2227fdf767531c2309490ef169dc0b1d0be55a373af9bad10"
 metafile = true
 
 [[files]]
 file = "mods/leaf-decay.toml"
 hash = "fe8607e5cf509fbacb7061bff230a9c5d3c94dca327c096cd307f0f8da3739ce"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.toml"
+hash = "0839fb61f6eac6dd7e5e9928a3185e848256beeac66790526062b31c907a3f70"
 metafile = true
 
 [[files]]
@@ -97,7 +125,12 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "4fe6b1a844ad7b6774b2ba23c2288fefca87c82250d4e94494be9ebb7b53c63c"
+hash = "d0e5f495b4d26171afb4ba197cdbb3657517a2c98c8c6495d6134c17ef53fa88"
+metafile = true
+
+[[files]]
+file = "mods/mooblooms.toml"
+hash = "d91429c4699b407f7da72e6d2b073e08febb933112f3d79408319da2ba64c2aa"
 metafile = true
 
 [[files]]
@@ -106,13 +139,23 @@ hash = "7ce3b9fa57bdc28eba460275a62c339f1f0703b01bc62b28a39619af28003423"
 metafile = true
 
 [[files]]
+file = "mods/name-pain.toml"
+hash = "01d9beb545db3c23d887bb0f4dcaf2fad8a75fe54ce12c7118b8b172098e1157"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-crashes.toml"
+hash = "c4f1dae335559ea3c41626d8153b36077c17cc613de831d8ee3a9ba9eeba01a8"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.toml"
-hash = "008e022b5ac2a28953a44066dee31a15cc3ac4e5b11b86cb04388ffe517c607c"
+hash = "e1f1bcef74067a57ccc8e0ab732edcfdef59e987673f7d8997f0b03dfe3e0ce8"
 metafile = true
 
 [[files]]
 file = "mods/on-soul-fire.toml"
-hash = "b9176ef87e51bfa35b09690a88fd7bcc217b9c6ba802878077aa31ee296daf1f"
+hash = "4d15a0607f000df50276b14ba035e5d5eae82227c4126769973e6cf0bbc4e83e"
 metafile = true
 
 [[files]]
@@ -132,7 +175,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "650ae756c74c5a3e706dd954b3911344575dcd6834d74a1bbe0e47b0707a292a"
+hash = "bb706db1209cb9e01ff4887684ab6ede5793cea00c0bb5a42f3faba9e6ae72e9"
 metafile = true
 
 [[files]]
@@ -141,8 +184,18 @@ hash = "26fd915d060d8a57e1a56a00a7432b85d00df945c20de1a06655ab1a2becb31a"
 metafile = true
 
 [[files]]
+file = "mods/screenshot-to-clipboard-fabric.toml"
+hash = "d98538b36b9abc99c58287108eee2c75d6b6cdba97766664a76ebd8279a7c679"
+metafile = true
+
+[[files]]
+file = "mods/secret-rooms-fabric.toml"
+hash = "1612c5ee6ed78ba98530bb7927498b82e535801396a8e89939cc52e6738a9880"
+metafile = true
+
+[[files]]
 file = "mods/slight-gui-modifications.toml"
-hash = "8dc67bdc41baa2a556bbd119d952c071a6c46171675abe5b98ee86d7da93fb12"
+hash = "d1ebd36b9b03aa94fdcf01cfd0ee0a4fdfd7c4704217f2cd9d217e09352f521c"
 metafile = true
 
 [[files]]
@@ -166,8 +219,18 @@ hash = "cc2e6f02811248b468e2108da67001e1e64c814640ad937f237f3c1310a254ab"
 metafile = true
 
 [[files]]
+file = "mods/text-coloriser-plugin.toml"
+hash = "6250577c1a762ccba77c6018c0a425cdd91c8a29f44681aeb751e0dc8177bf26"
+metafile = true
+
+[[files]]
 file = "mods/traverse.toml"
-hash = "ccf6dc37bee45bc83c64a0158acbb6ae9579028c0b49e99a5f07e769c96a125f"
+hash = "3f438dc744d9b024f0778e8c67911c469a933fcbe275b81721b4bd9194f067bf"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "fffaa3dd026e6fc163e29264711c0a490ad5596d522fd0178c0f912cb5eba03a"
 metafile = true
 
 [[files]]
@@ -182,10 +245,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "27958e8aa8f0fdb8c02adef9f8da0a7a6c516c66adc578cfbcdfa72c407fe142"
+hash = "207d5c41d64f648ee2c03e352ace48d9ca9b503c2dd7a5feae9dc573d0f9a6d7"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "af82c86ed65498e74b2b7be1f636a8fc28df20fd4d0b63514fb1bfb96ee60d8c"
+hash = "d13ee2d1c49725dd17bff4fc886930d4b24d1f99a5c5a7dd6f8ff306ed1479da"
 metafile = true

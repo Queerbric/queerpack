@@ -1,19 +1,14 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.7.3_Fabric_1.16.1.jar"
-side = "client"
-
-[option]
-optional = true
-description = "Adds a fullscreen worldmap which shows you what you have explored in the world"
-default = false
+filename = "XaerosWorldMap_1.7.4_Fabric_1.16.1.jar"
+side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2996/224/XaerosWorldMap_1.7.3_Fabric_1.16.1.jar"
+url = "https://edge.forgecdn.net/files/3005/407/XaerosWorldMap_1.7.4_Fabric_1.16.1.jar"
 hash-format = "murmur2"
-hash = "824378232"
+hash = "4065701995"
 
 [update]
 [update.curseforge]
-file-id = 2996224
+file-id = 3005407
 project-id = 317780
 release-channel = "beta"

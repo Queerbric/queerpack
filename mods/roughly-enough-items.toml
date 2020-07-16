@@ -1,19 +1,18 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-4.9.0.jar"
+filename = "RoughlyEnoughItems-4.10.0.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3006/556/RoughlyEnoughItems-4.10.0.jar"
+hash-format = "murmur2"
+hash = "4254706796"
+
+[update]
+[update.curseforge]
+file-id = 3006556
+project-id = 310111
+release-channel = "beta"
 
 [option]
 optional = true
 description = "This is a mod to view items and recipes in Minecraft"
-default = false
-
-[download]
-url = "https://edge.forgecdn.net/files/3003/840/RoughlyEnoughItems-4.9.0.jar"
-hash-format = "murmur2"
-hash = "2879219790"
-
-[update]
-[update.curseforge]
-file-id = 3003840
-project-id = 310111
-release-channel = "beta"

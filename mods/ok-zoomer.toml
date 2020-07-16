@@ -1,19 +1,18 @@
 name = "Ok Zoomer"
-filename = "okzoomer-3.0.1-20w12a.jar"
+filename = "okzoomer-4.0.0-alpha.4.1.16.1.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/2995/913/okzoomer-4.0.0-alpha.4.1.16.1.jar"
+hash-format = "murmur2"
+hash = "25035512"
+
+[update]
+[update.curseforge]
+file-id = 2995913
+project-id = 354047
+release-channel = "beta"
 
 [option]
 optional = true
 description = "A mod that adds a highly configurable zoom button for Fabric"
-default = false
-
-[download]
-url = "https://edge.forgecdn.net/files/2909/687/okzoomer-3.0.1-20w12a.jar"
-hash-format = "murmur2"
-hash = "3821211118"
-
-[update]
-[update.curseforge]
-file-id = 2909687
-project-id = 354047
-release-channel = "beta"

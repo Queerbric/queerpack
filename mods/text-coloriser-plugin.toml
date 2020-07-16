@@ -1,0 +1,14 @@
+name = "Text Coloriser Plugin"
+filename = "TCP-1.3.2-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3003/737/TCP-1.3.2-1.16.1.jar"
+hash-format = "murmur2"
+hash = "1439864322"
+
+[update]
+[update.curseforge]
+file-id = 3003737
+project-id = 366398
+release-channel = "beta"
