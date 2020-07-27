@@ -1,19 +1,18 @@
 name = "Canvas Renderer"
-filename = "canvas-mc116-1.0.784.jar"
+filename = "canvas-mc116-1.0.867.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3015/899/canvas-mc116-1.0.867.jar"
+hash-format = "murmur2"
+hash = "4065197984"
+
+[update]
+[update.curseforge]
+file-id = 3015899
+project-id = 318440
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Advanced Rendering Engine for Fabric(incompatible with Sodium)"
-default = false
-
-[download]
-url = "https://edge.forgecdn.net/files/3002/395/canvas-mc116-1.0.784.jar"
-hash-format = "murmur2"
-hash = "1770387365"
-
-[update]
-[update.curseforge]
-file-id = 3002395
-project-id = 318440
-release-channel = "beta"

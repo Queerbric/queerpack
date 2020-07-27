@@ -1,14 +1,14 @@
-name = "Fabric Controlling"
-filename = "fabriccontrolling-1.1.1.jar"
+name = "Controlling for Fabric"
+filename = "Controlling-For-Fabric-1.1.2.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3002/453/fabriccontrolling-1.1.1.jar"
+url = "https://edge.forgecdn.net/files/3011/658/Controlling-For-Fabric-1.1.2.jar"
 hash-format = "murmur2"
-hash = "3093424942"
+hash = "675209939"
 
 [update]
 [update.curseforge]
-file-id = 3002453
+file-id = 3011658
 project-id = 308841
 release-channel = "beta"

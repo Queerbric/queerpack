@@ -1,18 +1,18 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_20.16.0.1_Fabric_1.16.1.jar"
+filename = "Xaeros_Minimap_20.18.0.1_Fabric_1.16.1.jar"
 side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3013/760/Xaeros_Minimap_20.18.0.1_Fabric_1.16.1.jar"
+hash-format = "murmur2"
+hash = "2723920875"
+
+[update]
+[update.curseforge]
+file-id = 3013760
+project-id = 263420
+release-channel = "beta"
 
 [option]
 optional = true
 description = "Displays the nearby world terrain, players, mobs, entities in the corner of your screen. Works as a separate mod but is a lot better with Xaero's World Map"
-default = false
-[download]
-url = "https://edge.forgecdn.net/files/3005/395/Xaeros_Minimap_20.16.0.1_Fabric_1.16.1.jar"
-hash-format = "murmur2"
-hash = "1694304932"
-
-[update]
-[update.curseforge]
-file-id = 3005395
-project-id = 263420
-release-channel = "beta"

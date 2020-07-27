@@ -1,14 +1,14 @@
 name = "Terrestria"
-filename = "terrestria-2.0.3+build.46.jar"
+filename = "terrestria-2.0.4+build.50.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/2997/857/terrestria-2.0.3+build.46.jar"
+url = "https://edge.forgecdn.net/files/3010/731/terrestria-2.0.4+build.50.jar"
 hash-format = "murmur2"
-hash = "3917686326"
+hash = "1523869711"
 
 [update]
 [update.curseforge]
-file-id = 2997857
+file-id = 3010731
 project-id = 323974
 release-channel = "beta"

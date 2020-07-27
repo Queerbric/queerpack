@@ -26,7 +26,7 @@ hash = "648d57d60a8a399d36100dd477a2a98465b81dafa9909522b441c8bf153b94ce"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "7cf224e47866bdca7829415fa7cf62834a76f7ad080df39f3e9d1fffcdda948a"
+hash = "5f15155567b9f16b385c876b9e3686e397b0c981c39975f1c2a6780adf0642e5"
 
 [[files]]
 file = "mods/adorn.toml"
@@ -35,7 +35,7 @@ metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
-hash = "04840245fafa05c08363f3d29ade84e085976289ffaa9049046745836b10ac89"
+hash = "88db5795184458bf1727e0bbb030c93ed8177da692d0e5563e10cdd28806c983"
 metafile = true
 
 [[files]]
@@ -55,12 +55,12 @@ metafile = true
 
 [[files]]
 file = "mods/canvas-renderer.toml"
-hash = "0466840d6e6abf48a53421352118b3e4ceb90043141fd2908c41768def163aa9"
+hash = "a37b4c2044d8a4461ac62cc39fa27348bc17da34a9b7316d658970a82a8e37b0"
 metafile = true
 
 [[files]]
 file = "mods/cinderscapes.toml"
-hash = "894bd24134330043aef612da466bc10fea2e2b3c6bc2eeace8299895e131791e"
+hash = "a03dad3ae946eb8cbc0cb4d2ebc305bae3ba4c57d9a5f06c0ed4f23862984f43"
 metafile = true
 
 [[files]]
@@ -74,8 +74,13 @@ hash = "7e03660af643d475eeb04074dbbc8bfc3dc75ad1704a3e6837acdab96c9e7d7e"
 metafile = true
 
 [[files]]
+file = "mods/crowmap.toml"
+hash = "a762f9b6f3e12736a6255e167c373effb027610e5188ee1b48ca38ca49660e32"
+metafile = true
+
+[[files]]
 file = "mods/dont-drop-it.toml"
-hash = "10af2b7b26a59b9931b35dbc2a3a4b7296ae0632f68e212f5b2373bf9fd73dec"
+hash = "02cb133fc3649694981dafae42da3db77fafa1860b5f060af8ef20ceaf1f34ed"
 metafile = true
 
 [[files]]
@@ -90,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f93b25fd243defc9b1bf6e6639646283c62e40c75fc166f5bb2f1875de5be572"
+hash = "f43cdc2ef025733472b11fb9b40b03c1f975cecf959edde4cab9e5392c8e963e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-controlling.toml"
-hash = "5abd01da6e573e49c5437e8e54183d9f67c136b452919a359f5208f633492346"
+hash = "b04194d4d882575b1de1ac8ef39920e3c075b06f58ff48d72a70d762d1946b2c"
 metafile = true
 
 [[files]]
@@ -120,7 +125,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles.toml"
-hash = "97bc78447b81333b5a46e98a1b856fb521a89f6964f8afc101963ae163a19c71"
+hash = "2000239f6c91b29066105dfc99afb094d6f248ec72d7c64a76bd754f136048ed"
 metafile = true
 
 [[files]]
@@ -145,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "d0e5f495b4d26171afb4ba197cdbb3657517a2c98c8c6495d6134c17ef53fa88"
+hash = "82387a94523b4547ca51fb314170daab90e101f9fb27c170815f0753330cad02"
 metafile = true
 
 [[files]]
@@ -165,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-crashes.toml"
-hash = "c4f1dae335559ea3c41626d8153b36077c17cc613de831d8ee3a9ba9eeba01a8"
+hash = "7f82f8142ee8c4ec03cbb72cb6440d90b41b2c6c8b0b0c27817caef8fdfacf6d"
 metafile = true
 
 [[files]]
@@ -195,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "bb706db1209cb9e01ff4887684ab6ede5793cea00c0bb5a42f3faba9e6ae72e9"
+hash = "333acb36611d274d5ffb3bef90f1e3f0960fff10ad0d710a7d0008491b3d9edb"
 metafile = true
 
 [[files]]
@@ -205,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/screenshot-to-clipboard-fabric.toml"
-hash = "d98538b36b9abc99c58287108eee2c75d6b6cdba97766664a76ebd8279a7c679"
+hash = "acc81f0dec519d3626a7b9b79869da6eeff4bd443d7ec993c1e5944691b3cfdb"
 metafile = true
 
 [[files]]
@@ -235,7 +240,7 @@ metafile = true
 
 [[files]]
 file = "mods/terrestria.toml"
-hash = "cc2e6f02811248b468e2108da67001e1e64c814640ad937f237f3c1310a254ab"
+hash = "9afeba92f29298a551668c41328408ef20d7d956ed2eb3050e9610b7ed504995"
 metafile = true
 
 [[files]]
@@ -245,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.toml"
-hash = "3f438dc744d9b024f0778e8c67911c469a933fcbe275b81721b4bd9194f067bf"
+hash = "6cbfe50543f48427baca6c571d6a2e661c549c92460d7de2b2fe30cd2845eb2e"
 metafile = true
 
 [[files]]
@@ -265,10 +270,10 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.toml"
-hash = "8c654546c377538b33980ad34830a3aa166faf03b90c3749e07cd6c9e9c50850"
+hash = "e876fcc6a1c9450964f2761cba13689ecd12746f9b18a547a5c453c406aff7e9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.toml"
-hash = "62c8fd668217cd129a115b4e4144e5529582bf4792437897554add570b3b7627"
+hash = "906c9f2d0ceb83a7d4ad2f111546f192cfde01c1071ccc1b227c898f30fa7d32"
 metafile = true
