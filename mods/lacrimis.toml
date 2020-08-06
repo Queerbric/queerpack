@@ -1,0 +1,14 @@
+name = "Lacrimis"
+filename = "lacrimis-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3009/564/lacrimis-1.2.2.jar"
+hash-format = "murmur2"
+hash = "819844779"
+
+[update]
+[update.curseforge]
+file-id = 3009564
+project-id = 391921
+release-channel = "beta"

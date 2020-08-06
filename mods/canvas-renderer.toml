@@ -1,15 +1,15 @@
 name = "Canvas Renderer"
-filename = "canvas-mc116-1.0.867.jar"
+filename = "canvas-mc116-1.0.871.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3015/899/canvas-mc116-1.0.867.jar"
+url = "https://edge.forgecdn.net/files/3020/449/canvas-mc116-1.0.871.jar"
 hash-format = "murmur2"
-hash = "4065197984"
+hash = "2929111190"
 
 [update]
 [update.curseforge]
-file-id = 3015899
+file-id = 3020449
 project-id = 318440
 release-channel = "beta"
 

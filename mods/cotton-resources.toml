@@ -1,0 +1,14 @@
+name = "Cotton Resources"
+filename = "cotton-resources+unspecified-1.7.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2993/390/cotton-resources+unspecified-1.7.1.jar"
+hash-format = "murmur2"
+hash = "8124099"
+
+[update]
+[update.curseforge]
+file-id = 2993390
+project-id = 321104
+release-channel = "beta"

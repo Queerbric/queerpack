@@ -1,0 +1,14 @@
+name = "Item Model Fix"
+filename = "item-model-fix-0.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3022/772/item-model-fix-0.1.1.jar"
+hash-format = "murmur2"
+hash = "2713434263"
+
+[update]
+[update.curseforge]
+file-id = 3022772
+project-id = 399798
+release-channel = "beta"

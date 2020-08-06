@@ -1,15 +1,15 @@
 name = "Roughly Enough Items (REI)"
-filename = "RoughlyEnoughItems-4.10.3.jar"
+filename = "RoughlyEnoughItems-4.10.4.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/3013/302/RoughlyEnoughItems-4.10.3.jar"
+url = "https://edge.forgecdn.net/files/3020/860/RoughlyEnoughItems-4.10.4.jar"
 hash-format = "murmur2"
-hash = "608292998"
+hash = "156537607"
 
 [update]
 [update.curseforge]
-file-id = 3013302
+file-id = 3020860
 project-id = 310111
 release-channel = "beta"
 

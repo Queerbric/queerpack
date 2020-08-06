@@ -1,0 +1,14 @@
+name = "Astromine: Fabric"
+filename = "astromine-1.5.1+fabric-1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3023/303/astromine-1.5.1+fabric-1.16.1.jar"
+hash-format = "murmur2"
+hash = "3090601153"
+
+[update]
+[update.curseforge]
+file-id = 3023303
+project-id = 391739
+release-channel = "beta"

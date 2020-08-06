@@ -26,16 +26,21 @@ hash = "648d57d60a8a399d36100dd477a2a98465b81dafa9909522b441c8bf153b94ce"
 
 [[files]]
 file = "config/slightguimodifications/cts.groovy"
-hash = "5f15155567b9f16b385c876b9e3686e397b0c981c39975f1c2a6780adf0642e5"
+hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
 file = "mods/adorn.toml"
-hash = "21c63b243f168d3210101a0a4db8162caf98822ff6dea962d9f328464ef642b4"
+hash = "7458c0236a142dc98e1d1796b6e4acf58f15bbc224a3786033c5d0ccb95aab37"
 metafile = true
 
 [[files]]
 file = "mods/appleskin.toml"
 hash = "88db5795184458bf1727e0bbb030c93ed8177da692d0e5563e10cdd28806c983"
+metafile = true
+
+[[files]]
+file = "mods/astromine-fabric.toml"
+hash = "e2f4cc7c592c72d04c089d7f873fec7520f7fed72a14ff633c38ba6e0577b36b"
 metafile = true
 
 [[files]]
@@ -54,8 +59,13 @@ hash = "56df0d5fc8b100d2991a8464eb2cf315903ce6f0c6daf3ef9a145a3af5bd1680"
 metafile = true
 
 [[files]]
+file = "mods/campanion.toml"
+hash = "57282c17e3ac4bb19ae75f8051b71d9a1b52104f04f7ffa3339469f393646656"
+metafile = true
+
+[[files]]
 file = "mods/canvas-renderer.toml"
-hash = "a37b4c2044d8a4461ac62cc39fa27348bc17da34a9b7316d658970a82a8e37b0"
+hash = "95591054f8b1a98c0c10140df62ab498e36889c190355ce1dd6bc82bcc235f40"
 metafile = true
 
 [[files]]
@@ -64,8 +74,18 @@ hash = "a03dad3ae946eb8cbc0cb4d2ebc305bae3ba4c57d9a5f06c0ed4f23862984f43"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.toml"
+hash = "f99bf067ef7e6df81ce1f694d9853ad29848b19e4a174f4bc6639e40d8983eef"
+metafile = true
+
+[[files]]
 file = "mods/columns.toml"
 hash = "9822ddb12d7e161e316cba4032899e0210a3e289dbc1fcf69aa2c491ef1f5487"
+metafile = true
+
+[[files]]
+file = "mods/cotton-resources.toml"
+hash = "afbc6d945ff415f35393c01667ec35206f7b6ad9b61e8c5c749b9852a9261b04"
 metafile = true
 
 [[files]]
@@ -84,8 +104,23 @@ hash = "02cb133fc3649694981dafae42da3db77fafa1860b5f060af8ef20ceaf1f34ed"
 metafile = true
 
 [[files]]
-file = "mods/duyguji.toml"
-hash = "b2dc7f816c4bd5ec40a4d144147a40debee2ce1c8edc440f84b148f6d537a418"
+file = "mods/duyguji-client-font.toml"
+hash = "104a5a9a558fa755bb7785d1a3d3492330abef7ebd80aa63290878223332ee9a"
+metafile = true
+
+[[files]]
+file = "mods/duyguji-client-input.toml"
+hash = "6ac89ffbbcd85084deab668f328d1e20e481a61e07a5a4db121ad588fc370bbb"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-book-redesign-fabric.toml"
+hash = "56773503b458cc28d6c4de3665c5a4862e88c4e25dd52fd8d5ee7e8a755bd2cf"
+metafile = true
+
+[[files]]
+file = "mods/environmental-creepers.toml"
+hash = "b527e38d839214392bb4c3fc6ddae85b828f607084b70d4279b3ba58fe211f3f"
 metafile = true
 
 [[files]]
@@ -95,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "f43cdc2ef025733472b11fb9b40b03c1f975cecf959edde4cab9e5392c8e963e"
+hash = "fab3cb6af3d8aa70d77330c5ac5c1e7619bab688a6b2f3d5637f4d33a1396fdf"
 metafile = true
 
 [[files]]
@@ -119,6 +154,11 @@ hash = "47aaa9914783ac5579bab08258b15f23ddc314ca0d3bc4f8b70b7aa2c90fd967"
 metafile = true
 
 [[files]]
+file = "mods/gravestones.toml"
+hash = "f017be467205e978568c02f4ad75e16043fe58255c0deffa029f9a829a6290da"
+metafile = true
+
+[[files]]
 file = "mods/improved-stations.toml"
 hash = "aa8e612c7011a1823410e1c4d9af3b0fbd636d9015cdda196fbdab1686c04298"
 metafile = true
@@ -126,6 +166,16 @@ metafile = true
 [[files]]
 file = "mods/inventory-profiles.toml"
 hash = "2000239f6c91b29066105dfc99afb094d6f248ec72d7c64a76bd754f136048ed"
+metafile = true
+
+[[files]]
+file = "mods/item-model-fix.toml"
+hash = "272609037175d2260f1997c6e362b64649024e2b87677421ddb008f45c769301"
+metafile = true
+
+[[files]]
+file = "mods/lacrimis.toml"
+hash = "985ad743f68a7d6265aa203f5aee435231c52d3e91d53df026206e968462e648"
 metafile = true
 
 [[files]]
@@ -146,6 +196,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.toml"
 hash = "88c449ed536c045b2734cfbd6749466403ac0acd4f29940bc50493d3be15cc9d"
+metafile = true
+
+[[files]]
+file = "mods/mechanized-steam-power.toml"
+hash = "a863bed6a51134a895541f43740e65321f89a53085469ed2aebe1aa5efd0435b"
 metafile = true
 
 [[files]]
@@ -175,17 +230,22 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.toml"
-hash = "e1f1bcef74067a57ccc8e0ab732edcfdef59e987673f7d8997f0b03dfe3e0ce8"
+hash = "4b1ca4f8f5be2de0f05e9c2f1f3f6dbc367c32e795334c9044badb8e5f3d4f42"
 metafile = true
 
 [[files]]
 file = "mods/on-soul-fire.toml"
-hash = "4d15a0607f000df50276b14ba035e5d5eae82227c4126769973e6cf0bbc4e83e"
+hash = "69f31107c7c12f5e7acbc92a7de143caed784b5f440abddff2e0d3245af12511"
 metafile = true
 
 [[files]]
 file = "mods/painting-cycle.toml"
 hash = "021b5e795511472c5bce8a390c0776cef5e8d226806fc4a1efaa3aa34d626b7f"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "dbe4e227bd1327afc6ffad4153bba12113d46b88b5a1619460ce3fbe415920b1"
 metafile = true
 
 [[files]]
@@ -199,8 +259,22 @@ hash = "72b8f602d254566ec6c758156af2d00dd4ac2c5497daf19525d078e02683425d"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.toml"
+hash = "041e379662fa028f8e1fffde773749bdc5de8dd06e7a3f97932c01489b000cc2"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "a6ed08ef7ba35e6f0e18d1d5cbeef680a8aeed470fa2392231a3e9256b29f100"
+metafile = true
+
+[[files]]
+file = "mods/resource-loader-fabric-1.1.0.jar"
+hash = "103a3f848fe1b315e87f2539a94b2912968f6b167ce986c1464a838b98c50162"
+
+[[files]]
 file = "mods/roughly-enough-items.toml"
-hash = "333acb36611d274d5ffb3bef90f1e3f0960fff10ad0d710a7d0008491b3d9edb"
+hash = "5b0c9be7d4ab64690f63016b3a7196593b21b4c1b82e7b3b4a33f0accfaabefd"
 metafile = true
 
 [[files]]
@@ -219,8 +293,18 @@ hash = "1612c5ee6ed78ba98530bb7927498b82e535801396a8e89939cc52e6738a9880"
 metafile = true
 
 [[files]]
+file = "mods/simpleharvest.toml"
+hash = "ed14abc821d12764e6f3294ad699850bc8acd91bcde48fbdd0dc89a177fc718a"
+metafile = true
+
+[[files]]
 file = "mods/slight-gui-modifications.toml"
 hash = "d1ebd36b9b03aa94fdcf01cfd0ee0a4fdfd7c4704217f2cd9d217e09352f521c"
+metafile = true
+
+[[files]]
+file = "mods/slotlink.toml"
+hash = "394bff8dbfaaf2764e3d60acbb1317da5d0fad8850397836f9b265447963b3de"
 metafile = true
 
 [[files]]
@@ -234,8 +318,8 @@ hash = "cd2f988b747fd9a80dcb8dd8cd2687291db6c9a8087f8882e647774c323c0409"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "62cbd705e4b44a4eee83f62c8974f2a2481740399e5c1b800e2e801293346150"
+file = "mods/techreborn.toml"
+hash = "538e1415a08a3706baf326f2e79a64ce6638b667a6c513cebc411f12230f3861"
 metafile = true
 
 [[files]]
@@ -244,8 +328,8 @@ hash = "9afeba92f29298a551668c41328408ef20d7d956ed2eb3050e9610b7ed504995"
 metafile = true
 
 [[files]]
-file = "mods/text-coloriser-plugin.toml"
-hash = "6250577c1a762ccba77c6018c0a425cdd91c8a29f44681aeb751e0dc8177bf26"
+file = "mods/tis-3d.toml"
+hash = "90872a1f3687afd57b033ead801d2c23215335d34adb2280e017c15c60af9628"
 metafile = true
 
 [[files]]
@@ -264,6 +348,16 @@ hash = "5c33f6b1ce3caaa16dc30c90ad4f7e53ca3de9bafa4072ab8bcaaecb14c4be1c"
 metafile = true
 
 [[files]]
+file = "mods/vanilla-parts.toml"
+hash = "5c6d3351937bda964c195e2202a9c440992758f40394378c4624c034b01d867f"
+metafile = true
+
+[[files]]
+file = "mods/veggieway-fabric.toml"
+hash = "cb4c1c85d758b0277737463f260199b6ce4296a9801823e7831039d4aef603f2"
+metafile = true
+
+[[files]]
 file = "mods/window-title-changer.toml"
 hash = "deb357a94eada7fa135b55afc2f28c3d6bec516ec20db8dba62f0ebee0a11877"
 metafile = true
@@ -277,3 +371,39 @@ metafile = true
 file = "mods/xaeros-world-map.toml"
 hash = "906c9f2d0ceb83a7d4ad2f111546f192cfde01c1071ccc1b227c898f30fa7d32"
 metafile = true
+
+[[files]]
+file = "resourcepacks/twemoji_font.zip"
+hash = "db74c1c06175e89578e577ee4bc28aaf1129abdb3e8fb9cae5a8c984252618a9"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
+hash = "d1ccd196388ccc5488f190cc267b1220f2a3b9b8da782102ba83ca108f216f5d"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
+hash = "0b111a9c442457f6f8a19482660b13083eff216c7a48b60105aa9cce12865473"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
+hash = "59175f0588cafa0662c0127d45fa099d28c71530b76a555540502572ef3bdbb0"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
+hash = "f306394f6143486da4390e3808dd664e0d7c7f7ba61c9fde3993b9c75594f28e"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
+hash = "1d5cda8899661c044f2a32268fb7fc22f0ab1d86ecb6d5c30268dbfecb9219b2"
+
+[[files]]
+file = "resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
+hash = "3596bdd4d180f19d2b7525299c9370f4e9b840c18406981023afea63bfdefc9a"
+
+[[files]]
+file = "resources/pack.mcmeta"
+hash = "bbf44d7e20ba69b986b7a932c48191a8495cc4bb2b9f05d37ea38e37e2a3fb8a"
+
+[[files]]
+file = "resources/pack.png"
+hash = "3e9edb14b2ec9601457afd1e7210c0f2fa1b09ad74736ee38fe680982b337db1"

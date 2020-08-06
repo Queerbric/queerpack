@@ -1,15 +1,15 @@
 name = "Ok Zoomer"
-filename = "okzoomer-4.0.0-alpha.4.1.16.1.jar"
+filename = "okzoomer-4.0.0-alpha.5+1.16.1.jar"
 side = "client"
 
 [download]
-url = "https://edge.forgecdn.net/files/2995/913/okzoomer-4.0.0-alpha.4.1.16.1.jar"
+url = "https://edge.forgecdn.net/files/3018/456/okzoomer-4.0.0-alpha.5+1.16.1.jar"
 hash-format = "murmur2"
-hash = "25035512"
+hash = "2826879705"
 
 [update]
 [update.curseforge]
-file-id = 2995913
+file-id = 3018456
 project-id = 354047
 release-channel = "beta"
 

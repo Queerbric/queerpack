@@ -1,0 +1,14 @@
+name = "Vanilla Parts"
+filename = "VanillaParts-1.1.3+1.16.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/2992/411/VanillaParts-1.1.3+1.16.1.jar"
+hash-format = "murmur2"
+hash = "2976109849"
+
+[update]
+[update.curseforge]
+file-id = 2992411
+project-id = 350998
+release-channel = "beta"

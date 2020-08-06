@@ -1,0 +1,12 @@
+name = "TIS-3D"
+filename = "TIS-3D-MC1.16-pre2-Fabric-1.5.0.BETA.jar"
+side = "both"
+
+[option]
+optional = false
+default = false
+
+[download]
+url = "https://github.com/Sturmlilie/TIS-3D/releases/download/1.16-BETA/TIS-3D-MC1.16-pre2-Fabric-1.5.0.BETA.jar"
+hash-format = "sha256"
+hash = "b1995078492d1a71c014260e74a19e0f9401444b7783250b2fdd8a38d1c17c2a"

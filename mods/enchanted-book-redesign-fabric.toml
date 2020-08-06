@@ -1,0 +1,14 @@
+name = "Enchanted Book Redesign Fabric"
+filename = "enchantedbookredesign-1.0a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3016/896/enchantedbookredesign-1.0a.jar"
+hash-format = "murmur2"
+hash = "647333993"
+
+[update]
+[update.curseforge]
+file-id = 3016896
+project-id = 398265
+release-channel = "beta"

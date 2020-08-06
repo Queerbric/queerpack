@@ -30,7 +30,7 @@ mainMenu {
         }
 
         // You can create a text with "literal" or "translatable" if you want to translate with Resource Packs
-        text = literal("§5Q§9u§ae§6e§cr§fpack 0.2.7")
+        text = literal("§5Q§9u§ae§6e§cr§fpack 0.2.8")
         // The alignment here can be "left", "center" or "right", default is "left"
         align = "left"
         // Color of the text, default is 0xFFFFFF
