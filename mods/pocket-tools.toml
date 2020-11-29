@@ -1,0 +1,14 @@
+name = "Pocket Tools"
+filename = "pockettools-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3125/66/pockettools-1.1.0.jar"
+hash-format = "murmur2"
+hash = "1228466120"
+
+[update]
+[update.curseforge]
+file-id = 3125066
+project-id = 418582
+release-channel = "beta"
