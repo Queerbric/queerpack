@@ -29,8 +29,27 @@ file = "config/slightguimodifications/cts.groovy"
 hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
+file = "mods/adabranium.toml"
+hash = "6299d99965047f3da502419a21a8c6ac67c5ab4a60c6008d2ca82760bffe05a9"
+metafile = true
+
+[[files]]
 file = "mods/blockus.toml"
 hash = "993cdec6b0c91570df971ddf1e55dbce6d2936762053ac2a3c9d917589376b38"
+metafile = true
+
+[[files]]
+file = "mods/cavebiomes-0.6.0.jar"
+hash = "bffbeaf6323e2411b828d0025de1466931c0f8259a3b990df218327f0d6b4056"
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
+metafile = true
+
+[[files]]
+file = "mods/expanded-storage-fabric.toml"
+hash = "015816401db923a4c38d8d8fb3376844127b8a3d84ddff25b2be98149746be58"
 metafile = true
 
 [[files]]
@@ -58,8 +77,17 @@ hash = "e22abd1b35913ce638cc533cfab49abd4485e0236f3b283e25784c43704df392"
 metafile = true
 
 [[files]]
+file = "mods/riverredux-0.1.5.jar"
+hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
+
+[[files]]
 file = "mods/tesla-coil-fabric-1.0.0+20w46a.jar"
 hash = "fef6639d4aa55767a26084125eeb58c56d1d77db398970c12948c40d87b372a6"
+
+[[files]]
+file = "mods/veggieway-fabric.toml"
+hash = "00ffda19bfa98d2793c97fb74c514eba70f0d21f8a4ff5278a30311cc755f696"
+metafile = true
 
 [[files]]
 file = "resourcepacks/twemoji_font.zip"

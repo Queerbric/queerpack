@@ -1,0 +1,14 @@
+name = "Adabranium"
+filename = "adabraniummod-2.0.0+20w48a.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3123/642/adabraniummod-2.0.0+20w48a.jar"
+hash-format = "murmur2"
+hash = "970959363"
+
+[update]
+[update.curseforge]
+file-id = 3123642
+project-id = 361599
+release-channel = "beta"
