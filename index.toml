@@ -29,348 +29,37 @@ file = "config/slightguimodifications/cts.groovy"
 hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
-file = "mods/adorn.toml"
-hash = "7458c0236a142dc98e1d1796b6e4acf58f15bbc224a3786033c5d0ccb95aab37"
-metafile = true
-
-[[files]]
-file = "mods/appleskin.toml"
-hash = "88db5795184458bf1727e0bbb030c93ed8177da692d0e5563e10cdd28806c983"
-metafile = true
-
-[[files]]
-file = "mods/astromine-fabric.toml"
-hash = "e2f4cc7c592c72d04c089d7f873fec7520f7fed72a14ff633c38ba6e0577b36b"
-metafile = true
-
-[[files]]
-file = "mods/banner-capes.toml"
-hash = "dd8726f646752bb6aa5bc0db71fcaba08d430e1eec9f04eb04a706d2fb3d61f6"
-metafile = true
-
-[[files]]
-file = "mods/blur-fabric.toml"
-hash = "8b3bef694e69cfeaf053a36c9b639223eee17a6c21dd437c5722d538529c944c"
-metafile = true
-
-[[files]]
-file = "mods/boatfix.toml"
-hash = "56df0d5fc8b100d2991a8464eb2cf315903ce6f0c6daf3ef9a145a3af5bd1680"
-metafile = true
-
-[[files]]
-file = "mods/campanion.toml"
-hash = "57282c17e3ac4bb19ae75f8051b71d9a1b52104f04f7ffa3339469f393646656"
-metafile = true
-
-[[files]]
-file = "mods/canvas-renderer.toml"
-hash = "95591054f8b1a98c0c10140df62ab498e36889c190355ce1dd6bc82bcc235f40"
-metafile = true
-
-[[files]]
-file = "mods/cinderscapes.toml"
-hash = "a03dad3ae946eb8cbc0cb4d2ebc305bae3ba4c57d9a5f06c0ed4f23862984f43"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.toml"
-hash = "f99bf067ef7e6df81ce1f694d9853ad29848b19e4a174f4bc6639e40d8983eef"
-metafile = true
-
-[[files]]
-file = "mods/columns.toml"
-hash = "9822ddb12d7e161e316cba4032899e0210a3e289dbc1fcf69aa2c491ef1f5487"
-metafile = true
-
-[[files]]
-file = "mods/cotton-resources.toml"
-hash = "afbc6d945ff415f35393c01667ec35206f7b6ad9b61e8c5c749b9852a9261b04"
-metafile = true
-
-[[files]]
-file = "mods/couplings-for-fabric-updated.toml"
-hash = "7e03660af643d475eeb04074dbbc8bfc3dc75ad1704a3e6837acdab96c9e7d7e"
-metafile = true
-
-[[files]]
-file = "mods/crowmap.toml"
-hash = "a762f9b6f3e12736a6255e167c373effb027610e5188ee1b48ca38ca49660e32"
-metafile = true
-
-[[files]]
-file = "mods/dont-drop-it.toml"
-hash = "02cb133fc3649694981dafae42da3db77fafa1860b5f060af8ef20ceaf1f34ed"
-metafile = true
-
-[[files]]
-file = "mods/duyguji-client-font.toml"
-hash = "104a5a9a558fa755bb7785d1a3d3492330abef7ebd80aa63290878223332ee9a"
-metafile = true
-
-[[files]]
-file = "mods/duyguji-client-input.toml"
-hash = "6ac89ffbbcd85084deab668f328d1e20e481a61e07a5a4db121ad588fc370bbb"
-metafile = true
-
-[[files]]
-file = "mods/enchanted-book-redesign-fabric.toml"
-hash = "56773503b458cc28d6c4de3665c5a4862e88c4e25dd52fd8d5ee7e8a755bd2cf"
-metafile = true
-
-[[files]]
-file = "mods/environmental-creepers.toml"
-hash = "b527e38d839214392bb4c3fc6ddae85b828f607084b70d4279b3ba58fe211f3f"
-metafile = true
-
-[[files]]
-file = "mods/experimentaway.toml"
-hash = "73ea86a49cc593ce9f8b2eb61c648d4d8a379a34d7a0f473fdd2ded7c3d93115"
+file = "mods/blockus.toml"
+hash = "993cdec6b0c91570df971ddf1e55dbce6d2936762053ac2a3c9d917589376b38"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "fab3cb6af3d8aa70d77330c5ac5c1e7619bab688a6b2f3d5637f4d33a1396fdf"
+hash = "2a74a3fe04a989728488fc434b5380c5b27b44ccb372cb84cee6a1b21b38654f"
 metafile = true
 
 [[files]]
-file = "mods/fabric-controlling.toml"
-hash = "b04194d4d882575b1de1ac8ef39920e3c075b06f58ff48d72a70d762d1946b2c"
-metafile = true
+file = "mods/illuminations-1.2.5.jar"
+hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
 
 [[files]]
-file = "mods/fabric-language-kotlin.toml"
-hash = "9b519bf8a3e9b4b47c1915681e98b6afa414b976dbc881007e9c9561af97a9c5"
-metafile = true
-
-[[files]]
-file = "mods/go-down.toml"
-hash = "f6addaa988e2b83dd3fe54b798d62a40668bfa94d349c001ec1fa3f0aeed29e4"
-metafile = true
-
-[[files]]
-file = "mods/gotta-climb-fast.toml"
-hash = "47aaa9914783ac5579bab08258b15f23ddc314ca0d3bc4f8b70b7aa2c90fd967"
-metafile = true
-
-[[files]]
-file = "mods/gravestones.toml"
-hash = "f017be467205e978568c02f4ad75e16043fe58255c0deffa029f9a829a6290da"
-metafile = true
-
-[[files]]
-file = "mods/improved-stations.toml"
-hash = "aa8e612c7011a1823410e1c4d9af3b0fbd636d9015cdda196fbdab1686c04298"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles.toml"
-hash = "2000239f6c91b29066105dfc99afb094d6f248ec72d7c64a76bd754f136048ed"
-metafile = true
-
-[[files]]
-file = "mods/item-model-fix.toml"
-hash = "272609037175d2260f1997c6e362b64649024e2b87677421ddb008f45c769301"
-metafile = true
-
-[[files]]
-file = "mods/lacrimis.toml"
-hash = "985ad743f68a7d6265aa203f5aee435231c52d3e91d53df026206e968462e648"
-metafile = true
-
-[[files]]
-file = "mods/lambdynamiclights.toml"
-hash = "0951ea11f0fb65f2227fdf767531c2309490ef169dc0b1d0be55a373af9bad10"
-metafile = true
-
-[[files]]
-file = "mods/leaf-decay.toml"
-hash = "fe8607e5cf509fbacb7061bff230a9c5d3c94dca327c096cd307f0f8da3739ce"
-metafile = true
-
-[[files]]
-file = "mods/light-overlay.toml"
-hash = "0839fb61f6eac6dd7e5e9928a3185e848256beeac66790526062b31c907a3f70"
-metafile = true
-
-[[files]]
-file = "mods/lithium.toml"
-hash = "88c449ed536c045b2734cfbd6749466403ac0acd4f29940bc50493d3be15cc9d"
-metafile = true
-
-[[files]]
-file = "mods/mechanized-steam-power.toml"
-hash = "a863bed6a51134a895541f43740e65321f89a53085469ed2aebe1aa5efd0435b"
+file = "mods/mo-structures.toml"
+hash = "48860e04954f3f5398671efd8e46f07cd4c4f975a3aa01e74498c9a875fdcbcb"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "82387a94523b4547ca51fb314170daab90e101f9fb27c170815f0753330cad02"
+hash = "6cc340a51c6ce84155622f2f048b1e3949aa3502571d1f4ba176f65f3041b308"
 metafile = true
 
 [[files]]
-file = "mods/mooblooms.toml"
-hash = "d91429c4699b407f7da72e6d2b073e08febb933112f3d79408319da2ba64c2aa"
+file = "mods/pocket-tools.toml"
+hash = "e22abd1b35913ce638cc533cfab49abd4485e0236f3b283e25784c43704df392"
 metafile = true
 
 [[files]]
-file = "mods/more-paths.toml"
-hash = "7ce3b9fa57bdc28eba460275a62c339f1f0703b01bc62b28a39619af28003423"
-metafile = true
-
-[[files]]
-file = "mods/name-pain.toml"
-hash = "01d9beb545db3c23d887bb0f4dcaf2fad8a75fe54ce12c7118b8b172098e1157"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-crashes.toml"
-hash = "7f82f8142ee8c4ec03cbb72cb6440d90b41b2c6c8b0b0c27817caef8fdfacf6d"
-metafile = true
-
-[[files]]
-file = "mods/ok-zoomer.toml"
-hash = "4b1ca4f8f5be2de0f05e9c2f1f3f6dbc367c32e795334c9044badb8e5f3d4f42"
-metafile = true
-
-[[files]]
-file = "mods/on-soul-fire.toml"
-hash = "69f31107c7c12f5e7acbc92a7de143caed784b5f440abddff2e0d3245af12511"
-metafile = true
-
-[[files]]
-file = "mods/painting-cycle.toml"
-hash = "021b5e795511472c5bce8a390c0776cef5e8d226806fc4a1efaa3aa34d626b7f"
-metafile = true
-
-[[files]]
-file = "mods/patchouli-fabric.toml"
-hash = "dbe4e227bd1327afc6ffad4153bba12113d46b88b5a1619460ce3fbe415920b1"
-metafile = true
-
-[[files]]
-file = "mods/phosphor.toml"
-hash = "f767ee4b9cfd06fba3e434975438206c9d9b6625e839c927dc54bd86f6b41eac"
-metafile = true
-
-[[files]]
-file = "mods/powershot.toml"
-hash = "72b8f602d254566ec6c758156af2d00dd4ac2c5497daf19525d078e02683425d"
-metafile = true
-
-[[files]]
-file = "mods/reborncore.toml"
-hash = "041e379662fa028f8e1fffde773749bdc5de8dd06e7a3f97932c01489b000cc2"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-fabric.toml"
-hash = "a6ed08ef7ba35e6f0e18d1d5cbeef680a8aeed470fa2392231a3e9256b29f100"
-metafile = true
-
-[[files]]
-file = "mods/resource-loader-fabric-1.1.0.jar"
-hash = "103a3f848fe1b315e87f2539a94b2912968f6b167ce986c1464a838b98c50162"
-
-[[files]]
-file = "mods/roughly-enough-items.toml"
-hash = "5b0c9be7d4ab64690f63016b3a7196593b21b4c1b82e7b3b4a33f0accfaabefd"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.toml"
-hash = "26fd915d060d8a57e1a56a00a7432b85d00df945c20de1a06655ab1a2becb31a"
-metafile = true
-
-[[files]]
-file = "mods/screenshot-to-clipboard-fabric.toml"
-hash = "acc81f0dec519d3626a7b9b79869da6eeff4bd443d7ec993c1e5944691b3cfdb"
-metafile = true
-
-[[files]]
-file = "mods/secret-rooms-fabric.toml"
-hash = "1612c5ee6ed78ba98530bb7927498b82e535801396a8e89939cc52e6738a9880"
-metafile = true
-
-[[files]]
-file = "mods/simpleharvest.toml"
-hash = "ed14abc821d12764e6f3294ad699850bc8acd91bcde48fbdd0dc89a177fc718a"
-metafile = true
-
-[[files]]
-file = "mods/slight-gui-modifications.toml"
-hash = "d1ebd36b9b03aa94fdcf01cfd0ee0a4fdfd7c4704217f2cd9d217e09352f521c"
-metafile = true
-
-[[files]]
-file = "mods/slotlink.toml"
-hash = "394bff8dbfaaf2764e3d60acbb1317da5d0fad8850397836f9b265447963b3de"
-metafile = true
-
-[[files]]
-file = "mods/smooth-scrolling-everywhere-fabric.toml"
-hash = "9b073facd240cba115d4fdee1f97b52dd6e0ec12d180c439440ad03b20869415"
-metafile = true
-
-[[files]]
-file = "mods/snowy-leaves.toml"
-hash = "cd2f988b747fd9a80dcb8dd8cd2687291db6c9a8087f8882e647774c323c0409"
-metafile = true
-
-[[files]]
-file = "mods/techreborn.toml"
-hash = "538e1415a08a3706baf326f2e79a64ce6638b667a6c513cebc411f12230f3861"
-metafile = true
-
-[[files]]
-file = "mods/terrestria.toml"
-hash = "9afeba92f29298a551668c41328408ef20d7d956ed2eb3050e9610b7ed504995"
-metafile = true
-
-[[files]]
-file = "mods/tis-3d.toml"
-hash = "90872a1f3687afd57b033ead801d2c23215335d34adb2280e017c15c60af9628"
-metafile = true
-
-[[files]]
-file = "mods/traverse.toml"
-hash = "6cbfe50543f48427baca6c571d6a2e661c549c92460d7de2b2fe30cd2845eb2e"
-metafile = true
-
-[[files]]
-file = "mods/trinkets-fabric.toml"
-hash = "fffaa3dd026e6fc163e29264711c0a490ad5596d522fd0178c0f912cb5eba03a"
-metafile = true
-
-[[files]]
-file = "mods/unbad-redstone.toml"
-hash = "5c33f6b1ce3caaa16dc30c90ad4f7e53ca3de9bafa4072ab8bcaaecb14c4be1c"
-metafile = true
-
-[[files]]
-file = "mods/vanilla-parts.toml"
-hash = "5c6d3351937bda964c195e2202a9c440992758f40394378c4624c034b01d867f"
-metafile = true
-
-[[files]]
-file = "mods/veggieway-fabric.toml"
-hash = "cb4c1c85d758b0277737463f260199b6ce4296a9801823e7831039d4aef603f2"
-metafile = true
-
-[[files]]
-file = "mods/window-title-changer.toml"
-hash = "deb357a94eada7fa135b55afc2f28c3d6bec516ec20db8dba62f0ebee0a11877"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.toml"
-hash = "e876fcc6a1c9450964f2761cba13689ecd12746f9b18a547a5c453c406aff7e9"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.toml"
-hash = "906c9f2d0ceb83a7d4ad2f111546f192cfde01c1071ccc1b227c898f30fa7d32"
-metafile = true
+file = "mods/tesla-coil-fabric-1.0.0+20w46a.jar"
+hash = "fef6639d4aa55767a26084125eeb58c56d1d77db398970c12948c40d87b372a6"
 
 [[files]]
 file = "resourcepacks/twemoji_font.zip"
