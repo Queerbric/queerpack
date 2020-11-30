@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocket-tools.toml"
-hash = "e22abd1b35913ce638cc533cfab49abd4485e0236f3b283e25784c43704df392"
+hash = "57ec6a6d7acf70a68607c1c5eb91549baa0e4f55a347f0ee026481d0ab4dca09"
 metafile = true
 
 [[files]]
