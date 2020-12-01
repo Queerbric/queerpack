@@ -76,6 +76,10 @@ file = "mods/riverredux-0.1.5.jar"
 hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
 
 [[files]]
+file = "mods/squake.jar"
+hash = "1d97fb66780afba103c7d4e638433c22c98dc6f85dd52829639ed9f2a2a3ecaa"
+
+[[files]]
 file = "mods/tesla-coil-fabric-1.0.0+20w48a.jar"
 hash = "97b93ea19a2c694643272a3f99a72af7ffac65054e27c220db2c8a35cdafb606"
 
