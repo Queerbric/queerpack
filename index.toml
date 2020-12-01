@@ -76,8 +76,8 @@ file = "mods/riverredux-0.1.5.jar"
 hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
 
 [[files]]
-file = "mods/tesla-coil-fabric-1.0.0+20w46a.jar"
-hash = "fef6639d4aa55767a26084125eeb58c56d1d77db398970c12948c40d87b372a6"
+file = "mods/tesla-coil-fabric-1.0.0+20w48a.jar"
+hash = "97b93ea19a2c694643272a3f99a72af7ffac65054e27c220db2c8a35cdafb606"
 
 [[files]]
 file = "mods/veggieway-fabric.toml"
