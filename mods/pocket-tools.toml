@@ -1,14 +1,14 @@
 name = "Pocket Tools"
-filename = "pockettools-1.1.1.jar"
+filename = "pockettools-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3126/311/pockettools-1.1.1.jar"
+url = "https://edge-service.overwolf.wtf/files/3129/82/pockettools-1.1.2.jar"
 hash-format = "murmur2"
-hash = "1085775039"
+hash = "579696265"
 
 [update]
 [update.curseforge]
-file-id = 3126311
+file-id = 3129082
 project-id = 418582
 release-channel = "beta"

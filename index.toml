@@ -40,7 +40,7 @@ metafile = true
 
 [[files]]
 file = "mods/cavebiomes-0.6.0.jar"
-hash = "bffbeaf6323e2411b828d0025de1466931c0f8259a3b990df218327f0d6b4056"
+hash = "7b9fdf9ffc02dcd73ea67aba5f581b709c373609870e8018626de748e2ba4748"
 
 [[files]]
 file = "mods/cloth-config.toml"
@@ -49,17 +49,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "2a74a3fe04a989728488fc434b5380c5b27b44ccb372cb84cee6a1b21b38654f"
+hash = "dd697844f59d2496248c75af7f30c09a87aae30c5205a9094f16523d6aee5243"
 metafile = true
 
 [[files]]
 file = "mods/illuminations-1.2.5.jar"
 hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
-
-[[files]]
-file = "mods/mo-structures.toml"
-hash = "48860e04954f3f5398671efd8e46f07cd4c4f975a3aa01e74498c9a875fdcbcb"
-metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
@@ -68,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/pocket-tools.toml"
-hash = "57ec6a6d7acf70a68607c1c5eb91549baa0e4f55a347f0ee026481d0ab4dca09"
+hash = "b23bd785f68540055f7c37b582b7365bac05e6e8c9e6c13392de92102f4495fb"
 metafile = true
 
 [[files]]
@@ -76,8 +71,8 @@ file = "mods/riverredux-0.1.5.jar"
 hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
 
 [[files]]
-file = "mods/tesla-coil-fabric-1.0.0+20w48a.jar"
-hash = "97b93ea19a2c694643272a3f99a72af7ffac65054e27c220db2c8a35cdafb606"
+file = "mods/tesla-coil-fabric-1.0.0+20w49a.jar"
+hash = "8f871e461e76f9f25b3b04d982ebdcc96f6af77ed4e00dce13c8179c683eaa29"
 
 [[files]]
 file = "mods/veggieway-fabric.toml"
