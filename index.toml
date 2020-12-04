@@ -57,6 +57,10 @@ file = "mods/illuminations-1.2.5.jar"
 hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
 
 [[files]]
+file = "mods/inspecio-1.0.0.jar"
+hash = "1aefc57d96f2f0289911885ed698a4a44e40908aa688aa988c830b3cd108923a"
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "6cc340a51c6ce84155622f2f048b1e3949aa3502571d1f4ba176f65f3041b308"
 metafile = true
