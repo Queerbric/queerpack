@@ -34,9 +34,8 @@ hash = "6299d99965047f3da502419a21a8c6ac67c5ab4a60c6008d2ca82760bffe05a9"
 metafile = true
 
 [[files]]
-file = "mods/blockus.toml"
-hash = "993cdec6b0c91570df971ddf1e55dbce6d2936762053ac2a3c9d917589376b38"
-metafile = true
+file = "mods/blockus-2.0.2+20w49a.jar"
+hash = "205f15c24192d67b0481b9ca1cbaf7115270d7879c68445b04e09caaff4b4ef4"
 
 [[files]]
 file = "mods/cavebiomes-0.6.0.jar"
