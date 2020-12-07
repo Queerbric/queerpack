@@ -42,9 +42,18 @@ file = "mods/cavebiomes-0.6.0.jar"
 hash = "7b9fdf9ffc02dcd73ea67aba5f581b709c373609870e8018626de748e2ba4748"
 
 [[files]]
+file = "mods/clear-despawn-fabric.toml"
+hash = "4da5a6b5c2d3c314c33553603bdefa9f9f0528f7ae3ce81ecf7b4c28bcb1e1ba"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
+
+[[files]]
+file = "mods/ears-fabric-1.17-1.1.1.jar"
+hash = "765c88f3e9167f4351008696212bb238e41bc0c92fa9d4b2e8bea5ed0a602334"
 
 [[files]]
 file = "mods/fabric-api.toml"
@@ -52,12 +61,16 @@ hash = "dd697844f59d2496248c75af7f30c09a87aae30c5205a9094f16523d6aee5243"
 metafile = true
 
 [[files]]
+file = "mods/fabric-mumblelink-mod-0.7.4.jar"
+hash = "5586e371fda3f3c3d73cded8f089e45c1b088730c3d0a0e28c789f1b282c07fa"
+
+[[files]]
 file = "mods/illuminations-1.2.5.jar"
 hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
 
 [[files]]
 file = "mods/inspecio-1.0.0.jar"
-hash = "1aefc57d96f2f0289911885ed698a4a44e40908aa688aa988c830b3cd108923a"
+hash = "820c18c53bbd732a706df0d357448b3da15b049f913db0002f5167a166a072d8"
 
 [[files]]
 file = "mods/modmenu.toml"
@@ -85,35 +98,3 @@ metafile = true
 [[files]]
 file = "resourcepacks/twemoji_font.zip"
 hash = "db74c1c06175e89578e577ee4bc28aaf1129abdb3e8fb9cae5a8c984252618a9"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "d1ccd196388ccc5488f190cc267b1220f2a3b9b8da782102ba83ca108f216f5d"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "0b111a9c442457f6f8a19482660b13083eff216c7a48b60105aa9cce12865473"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "59175f0588cafa0662c0127d45fa099d28c71530b76a555540502572ef3bdbb0"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "f306394f6143486da4390e3808dd664e0d7c7f7ba61c9fde3993b9c75594f28e"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "1d5cda8899661c044f2a32268fb7fc22f0ab1d86ecb6d5c30268dbfecb9219b2"
-
-[[files]]
-file = "resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "3596bdd4d180f19d2b7525299c9370f4e9b840c18406981023afea63bfdefc9a"
-
-[[files]]
-file = "resources/pack.mcmeta"
-hash = "bbf44d7e20ba69b986b7a932c48191a8495cc4bb2b9f05d37ea38e37e2a3fb8a"
-
-[[files]]
-file = "resources/pack.png"
-hash = "3e9edb14b2ec9601457afd1e7210c0f2fa1b09ad74736ee38fe680982b337db1"
