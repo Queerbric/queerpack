@@ -1,0 +1,8 @@
+name = "Lightfooted"
+filename = "lightfooted-1.0.0+20w49a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VVw2NUoe/versions/1.0.0+20w49a/lightfooted-1.0.0+20w49a.jar"
+hash-format = "sha256"
+hash = "5dc86ba7ad8757cd41d38245b343f8021ed6a6716f0549c4deedbf3826126bab"

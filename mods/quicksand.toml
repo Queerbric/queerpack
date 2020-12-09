@@ -1,0 +1,8 @@
+name = "Quicksand"
+filename = "quicksand-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HzX1nfB/versions/1.0.0/quicksand-1.0.0.jar"
+hash-format = "sha256"
+hash = "e655a98d2ecf86891ef45ba8cc7cfb0993789b3f6bc3244c11b9e13da96a338f"

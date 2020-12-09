@@ -38,6 +38,11 @@ file = "mods/blockus-2.0.2+20w49a.jar"
 hash = "205f15c24192d67b0481b9ca1cbaf7115270d7879c68445b04e09caaff4b4ef4"
 
 [[files]]
+file = "mods/cauldrons.toml"
+hash = "3d2625a1c5e35879dc2859d057f4d7160b2ba96437eb499ad1708a53b74f17a0"
+metafile = true
+
+[[files]]
 file = "mods/cavebiomes-0.6.0.jar"
 hash = "7b9fdf9ffc02dcd73ea67aba5f581b709c373609870e8018626de748e2ba4748"
 
@@ -73,6 +78,16 @@ file = "mods/inspecio-1.0.0.jar"
 hash = "820c18c53bbd732a706df0d357448b3da15b049f913db0002f5167a166a072d8"
 
 [[files]]
+file = "mods/iron-bundles.toml"
+hash = "e0a761c33d5193710f6da0e85f2b08b7d90a788ede41ae2ade33b2f83d87fbac"
+metafile = true
+
+[[files]]
+file = "mods/lightfooted.toml"
+hash = "b7ba472e9fc8724331b899b3a1c3b9744feca075299c75dd6e78838673fb3566"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.toml"
 hash = "6cc340a51c6ce84155622f2f048b1e3949aa3502571d1f4ba176f65f3041b308"
 metafile = true
@@ -80,6 +95,11 @@ metafile = true
 [[files]]
 file = "mods/pocket-tools.toml"
 hash = "b23bd785f68540055f7c37b582b7365bac05e6e8c9e6c13392de92102f4495fb"
+metafile = true
+
+[[files]]
+file = "mods/quicksand.toml"
+hash = "8c42f4c8bec4e405e8145695e8dd6e9bff18f5f5d8def4730bd68df42813e014"
 metafile = true
 
 [[files]]
