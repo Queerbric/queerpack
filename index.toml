@@ -79,7 +79,7 @@ hash = "820c18c53bbd732a706df0d357448b3da15b049f913db0002f5167a166a072d8"
 
 [[files]]
 file = "mods/iron-bundles.toml"
-hash = "e0a761c33d5193710f6da0e85f2b08b7d90a788ede41ae2ade33b2f83d87fbac"
+hash = "bea06a88ec7d75d3fc52da3a76980de29e2e1e71bb9ef3d12f232e74d6aa7cab"
 metafile = true
 
 [[files]]
