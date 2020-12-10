@@ -83,6 +83,10 @@ hash = "5f4f5640832a1442a39878e30f2631fde7c1718ec160c7a3dbe088757684476d"
 metafile = true
 
 [[files]]
+file = "mods/lambdafoxes-fabric-1.0.0+20w49a.jar"
+hash = "2d436eabb4e073d5e47bbffb7a2cb43bf46f0d55579f0f275fe3ee9b99ce9abf"
+
+[[files]]
 file = "mods/lightfooted.toml"
 hash = "b7ba472e9fc8724331b899b3a1c3b9744feca075299c75dd6e78838673fb3566"
 metafile = true
