@@ -3,7 +3,7 @@ name = "Queerpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "127b57c9d59578b37f21a96451af1b3161edb0ff12bbbb60a6d606200cff6259"
+hash = "3af7b292038c397fc01c780ab2a4237948fe366a804829fed8d47b84fee7c63b"
 
 [versions]
 fabric = "0.10.8"
