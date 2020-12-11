@@ -43,8 +43,9 @@ hash = "3d2625a1c5e35879dc2859d057f4d7160b2ba96437eb499ad1708a53b74f17a0"
 metafile = true
 
 [[files]]
-file = "mods/cavebiomes-0.6.0.jar"
-hash = "7b9fdf9ffc02dcd73ea67aba5f581b709c373609870e8018626de748e2ba4748"
+file = "mods/cave-biomes.toml"
+hash = "c4cd14a4453e61c42a6401ed049918fd2c9c0f9ee7f8ffeb47c5efc2d77c4a31"
+metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
