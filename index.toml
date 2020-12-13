@@ -117,8 +117,8 @@ file = "mods/riverredux-0.1.5.jar"
 hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
 
 [[files]]
-file = "mods/shulkerease-1.0.0.jar"
-hash = "a03112424f9b5a6de2defe095511714b3236eee29e000523903426a45fa2f4ee"
+file = "mods/skinned_lanterns_fabric-20w49a-1.1.1.jar"
+hash = "7235fd482e246284d06d3506523260084e7f538e1b636828fbc2d1ca4c576d28"
 
 [[files]]
 file = "mods/tesla-coil-fabric-1.0.0+20w49a.jar"

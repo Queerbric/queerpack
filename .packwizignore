@@ -1,4 +1,5 @@
 .git/**
 .gitattributes
 .gitignore
+.mods/**
 README.md
