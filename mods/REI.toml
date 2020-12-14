@@ -1,0 +1,12 @@
+name = "RoughlyEnoughItems"
+filename = "RoughlyEnoughItems-6.0.0-unstable-20201213.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/s8Fjazga/versions/fabric_20w49a_20201213/RoughlyEnoughItems-6.0.0-unstable-20201213.jar"
+hash-format = "sha256"
+hash = "112394fc3765fc087d6fac9a8424ebbc92841e09825e337c844e49f5790114e1"
+
+[option]
+optional = true
+description = ""
