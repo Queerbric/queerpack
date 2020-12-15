@@ -58,6 +58,11 @@ hash = "4da5a6b5c2d3c314c33553603bdefa9f9f0528f7ae3ce81ecf7b4c28bcb1e1ba"
 metafile = true
 
 [[files]]
+file = "mods/clickthrough.toml"
+hash = "2469c7d0b85962d45b6006700d09517ce901e2d8c9b91f4d3b52fa898a61cf95"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.toml"
 hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
 metafile = true
