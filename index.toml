@@ -131,8 +131,9 @@ file = "mods/skinned_lanterns_fabric-20w49a-1.1.1.jar"
 hash = "7235fd482e246284d06d3506523260084e7f538e1b636828fbc2d1ca4c576d28"
 
 [[files]]
-file = "mods/sodium-fabric-mc20w49a-0.1.1-SNAPSHOT.jar"
-hash = "c20f8e045fb3d57844ebcb5faf1827caaaef58dd3e0cd428ce0e926c521ac05e"
+file = "mods/sodium.toml"
+hash = "aed2e890a4520f0c508840c97b7bdfbf999604c2296571bde69825c7aea79276"
+metafile = true
 
 [[files]]
 file = "mods/tesla-coil-fabric-1.0.0+20w49a.jar"

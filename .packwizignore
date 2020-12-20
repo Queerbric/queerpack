@@ -2,4 +2,6 @@
 .gitattributes
 .gitignore
 .mods/**
+mods/sodium-fabric-mc20w49a-0.1.1-SNAPSHOT.jar
 README.md
+
