@@ -103,6 +103,16 @@ hash = "b7ba472e9fc8724331b899b3a1c3b9744feca075299c75dd6e78838673fb3566"
 metafile = true
 
 [[files]]
+file = "mods/litematica.toml"
+hash = "0760d92aaedf2a32a792bfa69f3f230500ddfb4c760bafaf057f1be380d4f824"
+metafile = true
+
+[[files]]
+file = "mods/malilib.toml"
+hash = "deea8902426fe13c2d91d0d54676038cd068e936d35a319e0f19afc41bef8e10"
+metafile = true
+
+[[files]]
 file = "mods/mo-structures.toml"
 hash = "d0fefb6620f0b2cdd4d440463f2aabf2c512dad13d2a79799b54a99ed6f50cd6"
 metafile = true
