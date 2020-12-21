@@ -1,6 +1,6 @@
 name = "MaLiLib"
 filename = "malilib-fabric-1.17-snap-20w49a-0.10.0-dev.21+beta.1.jar"
-side "client"
+side = "client"
 
 [download]
 url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/malilib-fabric-1.17-snap-20w49a-0.10.0-dev.21+beta.1.jar"
