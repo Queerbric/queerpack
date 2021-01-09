@@ -76,7 +76,7 @@ hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
 
 [[files]]
 file = "mods/inspecio.toml"
-hash = "ef14521e3a6dd71db3a0396995c4d6634f5bd78600ade80c3d9cb2db77e67e8b"
+hash = "edc0412ed0f6e7199d5e6f812beb184d0ce76fb11a8697dd8d2685f2512d1cb1"
 metafile = true
 
 [[files]]
@@ -124,8 +124,8 @@ hash = "8c42f4c8bec4e405e8145695e8dd6e9bff18f5f5d8def4730bd68df42813e014"
 metafile = true
 
 [[files]]
-file = "mods/riverredux-0.1.5.jar"
-hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
+file = "mods/riverredux-0.1.5-20w51a.jar"
+hash = "58534f5ad5662f4ce416e4488f3260d266e979962110f5eb465287712509cd1d"
 
 [[files]]
 file = "mods/skinned-lanterns-fabric.toml"
