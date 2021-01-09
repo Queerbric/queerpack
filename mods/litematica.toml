@@ -1,11 +1,11 @@
 name = "Litematica"
-filename = "litematica-fabric-1.17-snap-20w49a-0.0.0-dev.20201217.001711.jar"
+filename = "litematica-fabric-1.17-snap-20w51a-0.0.0-dev.20201218.030048.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/litematica-fabric-1.17-snap-20w49a-0.0.0-dev.20201217.001711.jar"
+url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/litematica-fabric-1.17-snap-20w51a-0.0.0-dev.20201218.030048.jar"
 hash-format = "sha256"
-hash = "0ab7810ed9e86e38e90362c159048856261b713be3393acbfd5646a6584f837e"
+hash = "8fb6e32562497a3f69dc3750a1c32dfd402b2fa5ba82881f64bd806576da45cf"
 
 [option]
 optional = true

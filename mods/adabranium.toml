@@ -3,12 +3,6 @@ filename = "adabraniummod-2.0.0+20w48a.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3123/642/adabraniummod-2.0.0+20w48a.jar"
-hash-format = "murmur2"
-hash = "970959363"
-
-[update]
-[update.curseforge]
-file-id = 3123642
-project-id = 361599
-release-channel = "beta"
+url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/.jar"
+hash-format = "sha256"
+hash = "394d437b2ee6fe64f7be57a9564c0618dc1b2e7bbf38105a0eaec893a4fa26fb"

@@ -1,0 +1,8 @@
+name = "Iron Bundles"
+filename = "inspecio-1.0.1+20w51a.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a93H3mKU/versions/1.0.1+20w51a/inspecio-1.0.1+20w51a.jar"
+hash-format = "sha256"
+hash = "171c0872c35fc50104988f802f8de0fd31ab849b49c1182967a3498871e9062c"

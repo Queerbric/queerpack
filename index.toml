@@ -29,18 +29,14 @@ file = "config/slightguimodifications/cts.groovy"
 hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
-file = "mods/REI.toml"
-hash = "68438ccb0849d44ef4fd815e9dac6bfdb8d373b0219472bbbfdf639a02e8f72d"
-metafile = true
-
-[[files]]
 file = "mods/adabranium.toml"
-hash = "6299d99965047f3da502419a21a8c6ac67c5ab4a60c6008d2ca82760bffe05a9"
+hash = "fa5468c5692532e6dcbeb97e66671728825361e7439f93c93276a8207eda77cc"
 metafile = true
 
 [[files]]
-file = "mods/blockus-2.0.2+20w49a.jar"
-hash = "205f15c24192d67b0481b9ca1cbaf7115270d7879c68445b04e09caaff4b4ef4"
+file = "mods/blockus.toml"
+hash = "c4069cbd1b4f399af4916345d45df7bf4bb8acfb10a7e83dcc79bf12931c780f"
+metafile = true
 
 [[files]]
 file = "mods/cauldrons.toml"
@@ -48,9 +44,8 @@ hash = "3d2625a1c5e35879dc2859d057f4d7160b2ba96437eb499ad1708a53b74f17a0"
 metafile = true
 
 [[files]]
-file = "mods/cave-biomes.toml"
-hash = "c4cd14a4453e61c42a6401ed049918fd2c9c0f9ee7f8ffeb47c5efc2d77c4a31"
-metafile = true
+file = "mods/cavebiomes-0.6.1.jar"
+hash = "ee191cfcb02cb323cbdc58262dae0c2fc3ce2066deea2ff94628c70990aabb84"
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
@@ -63,17 +58,12 @@ hash = "2469c7d0b85962d45b6006700d09517ce901e2d8c9b91f4d3b52fa898a61cf95"
 metafile = true
 
 [[files]]
-file = "mods/cloth-config.toml"
-hash = "03890d2584eb09c24cd65910a43c9c9c366fdc07de10512259ace8d9a19a6862"
-metafile = true
-
-[[files]]
 file = "mods/ears-fabric-1.17-1.1.1.jar"
 hash = "765c88f3e9167f4351008696212bb238e41bc0c92fa9d4b2e8bea5ed0a602334"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "673098b5452cf98fd995f664a75c39994db92c75bafa537bbd0a79ba500f5456"
+hash = "3461d1bdb02a1ca814fe059bca6ddc178a3f1b504cbd511840e5f31d35b9236f"
 metafile = true
 
 [[files]]
@@ -85,8 +75,9 @@ file = "mods/illuminations-1.2.5.jar"
 hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
 
 [[files]]
-file = "mods/inspecio-1.0.0.jar"
-hash = "820c18c53bbd732a706df0d357448b3da15b049f913db0002f5167a166a072d8"
+file = "mods/inspecio.toml"
+hash = "ef14521e3a6dd71db3a0396995c4d6634f5bd78600ade80c3d9cb2db77e67e8b"
+metafile = true
 
 [[files]]
 file = "mods/iron-bundles.toml"
@@ -94,8 +85,8 @@ hash = "5f4f5640832a1442a39878e30f2631fde7c1718ec160c7a3dbe088757684476d"
 metafile = true
 
 [[files]]
-file = "mods/lambdafoxes-fabric-1.0.0+20w49a.jar"
-hash = "2d436eabb4e073d5e47bbffb7a2cb43bf46f0d55579f0f275fe3ee9b99ce9abf"
+file = "mods/lambdafoxes-fabric-1.0.0+20w51a.jar"
+hash = "17ea42f43655b3662ad07b40b53e7844236c74d92660fec7561523f9d07e15f9"
 
 [[files]]
 file = "mods/lightfooted.toml"
@@ -104,12 +95,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "1fa4f5528b5f294b2e19990322c3cd456b4d33a1a0e07c8b499fa04d38c5da97"
+hash = "a640d96145ae52d9a96d63157ebd9600cea99369cea026ded7885c7fc85e6e67"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "57a0b534a4055b819d6aeb075fc7ae8e9fc611c889df6c0bc52f504490be381d"
+hash = "885263d203b3c44f8313e1a8f78cc6be27bf347431eff43a7fc0c713830eac89"
 metafile = true
 
 [[files]]
@@ -137,8 +128,9 @@ file = "mods/riverredux-0.1.5.jar"
 hash = "a49c763c1610be35a9764ef3240741517640ba5ef6edf08acb009d352155de6b"
 
 [[files]]
-file = "mods/skinned_lanterns_fabric-20w49a-1.1.1.jar"
-hash = "7235fd482e246284d06d3506523260084e7f538e1b636828fbc2d1ca4c576d28"
+file = "mods/skinned-lanterns-fabric.toml"
+hash = "c2aef35d27053499df65857d288a0db13b8a7c1a3aaeafa9d3989a026b8d36d9"
+metafile = true
 
 [[files]]
 file = "mods/sodium.toml"
