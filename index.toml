@@ -128,6 +128,10 @@ file = "mods/riverredux-0.1.5-20w51a.jar"
 hash = "58534f5ad5662f4ce416e4488f3260d266e979962110f5eb465287712509cd1d"
 
 [[files]]
+file = "mods/shulkerease-1.0.0.jar"
+hash = "4ab8980bdfe566a845bf2d06dd882d38ac957ed2b531a3636e5e6d6f6f96ee36"
+
+[[files]]
 file = "mods/skinned-lanterns-fabric.toml"
 hash = "c2aef35d27053499df65857d288a0db13b8a7c1a3aaeafa9d3989a026b8d36d9"
 metafile = true
