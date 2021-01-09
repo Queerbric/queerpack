@@ -30,7 +30,7 @@ hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
 file = "mods/adabranium.toml"
-hash = "fa5468c5692532e6dcbeb97e66671728825361e7439f93c93276a8207eda77cc"
+hash = "e7990b8ad2164de1bc87a8bb7c44cab0952289f1d5c0d04120cedfed73c54261"
 metafile = true
 
 [[files]]
