@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/iron-bundles.toml"
-hash = "5f4f5640832a1442a39878e30f2631fde7c1718ec160c7a3dbe088757684476d"
+hash = "ef31245adbd97a7724111a785e9c9ab49317267fd796cc26b8985bc6ce1dbcf0"
 metafile = true
 
 [[files]]
@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.toml"
-hash = "d0fefb6620f0b2cdd4d440463f2aabf2c512dad13d2a79799b54a99ed6f50cd6"
+hash = "3a20899ab170d020de13ef0459e35796f9bcbaceee9ec571460cd135e89d45f4"
 metafile = true
 
 [[files]]

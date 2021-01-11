@@ -3,6 +3,6 @@ filename = "ironbundles-1.0.1+20w49a.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GrvAgLaJ/versions/1.0.1+20w49a/ironbundles-1.0.1+20w49a.jar"
+url = "https://cdn.modrinth.com/data/GrvAgLaJ/versions/1.0.2+20w51a/ironbundles-1.0.2+20w51a.jar"
 hash-format = "sha256"
-hash = "858906099305b6527c4f18eafc9284a2d37e39f374a6fb733ae2fcd9caf48205"
+hash = "6c33c9e1799b7ab36290503d15316ace60356137583d7e8e43c0e18c97abba27"
