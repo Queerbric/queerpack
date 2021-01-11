@@ -105,7 +105,7 @@ metafile = true
 
 [[files]]
 file = "mods/mo-structures.toml"
-hash = "3a20899ab170d020de13ef0459e35796f9bcbaceee9ec571460cd135e89d45f4"
+hash = "a65b7c9e6e7750968adc00d98401d2871c8e3f2169db43ac387835aa3d990335"
 metafile = true
 
 [[files]]
