@@ -3,8 +3,8 @@ name = "Queerpack"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "717f5ae17a571700ddf6402fc8303ac17108eefda3cc34acd01fb4e135c0905c"
+hash = "93695830639212d3e997638d15e3a039eec856dfbe6a0c08f29b3575a64481fa"
 
 [versions]
-fabric = "0.10.8"
-minecraft = "20w51a"
+fabric = "0.11.1"
+minecraft = "21w03a"

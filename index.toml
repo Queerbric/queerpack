@@ -63,7 +63,7 @@ hash = "765c88f3e9167f4351008696212bb238e41bc0c92fa9d4b2e8bea5ed0a602334"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "3461d1bdb02a1ca814fe059bca6ddc178a3f1b504cbd511840e5f31d35b9236f"
+hash = "4a890e733268aac28b1bf59a9bc99835f7e4fc16c4e64ffad66971cf952e88d3"
 metafile = true
 
 [[files]]
