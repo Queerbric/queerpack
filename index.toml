@@ -30,8 +30,12 @@ hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
 file = "mods/adabranium.toml"
-hash = "e7990b8ad2164de1bc87a8bb7c44cab0952289f1d5c0d04120cedfed73c54261"
+hash = "ef94e9ef5b7b3e37c0f13aa26011ab365d7e174bb6fe72408ed511c311ba36d6"
 metafile = true
+
+[[files]]
+file = "mods/adabraniummod-2.0.1+21w03a.jar"
+hash = "6dd314beddd74a1daca04d12ca2cffaa153a10d64ced4c5f1bdf1157bd45ab72"
 
 [[files]]
 file = "mods/blockus.toml"
