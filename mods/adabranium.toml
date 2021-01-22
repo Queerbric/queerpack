@@ -3,6 +3,6 @@ filename = "adabraniummod-2.0.1+21w03a.jar"
 side = "both"
 
 [download]
-url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/adabraniummod-2.0.0+20w51a.jar"
+url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/adabraniummod-2.0.1+21w03a.jar"
 hash-format = "sha256"
 hash = "6dd314beddd74a1daca04d12ca2cffaa153a10d64ced4c5f1bdf1157bd45ab72"
