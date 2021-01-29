@@ -128,8 +128,8 @@ hash = "8c42f4c8bec4e405e8145695e8dd6e9bff18f5f5d8def4730bd68df42813e014"
 metafile = true
 
 [[files]]
-file = "mods/riverredux-0.1.5-20w51a.jar"
-hash = "58534f5ad5662f4ce416e4488f3260d266e979962110f5eb465287712509cd1d"
+file = "mods/riverredux-0.1.6.jar"
+hash = "dba73424e4f4e71e8987c3b80ab5d53560f5925295bd78885925305ae9fdc018"
 
 [[files]]
 file = "mods/shulkerease-1.0.0.jar"
