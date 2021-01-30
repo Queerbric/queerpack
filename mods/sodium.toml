@@ -1,11 +1,11 @@
 name = "Sodium"
-filename = "sodium-fabric-mc20w49a-0.1.1-SNAPSHOT.jar"
+filename = "sodium-fabric-mc21w03a-0.1.1-SNAPSHOT.jar"
 side="client"
 
 [download]
-url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/sodium-fabric-mc20w49a-0.1.1-SNAPSHOT.jar"
+url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/sodium-fabric-mc21w03a-0.1.1-SNAPSHOT.jar"
 hash-format = "sha256"
-hash = "c20f8e045fb3d57844ebcb5faf1827caaaef58dd3e0cd428ce0e926c521ac05e"
+hash = "ffeeefbe562405492c372fe49dc9bf0c5c32be5be62c1cec35f9a1a7c313041d"
 
 [option]
 optional = true
