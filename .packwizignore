@@ -3,8 +3,8 @@
 .gitignore
 .mods/**
 mods/sodium-fabric-mc21w03a-0.1.1-SNAPSHOT.jar
-mods/malilib-fabric-1.17-snap-20w51a-0.10.0-dev.21+beta.1.jar
-mods/litematica-fabric-1.17-snap-20w51a-0.0.0-dev.20201218.030048.jar
+mods/malilib-fabric-1.17-snap-21w05a-0.10.0-dev.21+beta.1.jar
+mods/litematica-fabric-1.17-snap-21w05a-0.0.0-dev.20210204.184419.jar
 mods/adabraniummod-2.0.0+20w51a.jar
 README.md
 

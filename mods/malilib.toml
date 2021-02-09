@@ -1,8 +1,8 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.17-snap-20w51a-0.10.0-dev.21+beta.1.jar"
+filename = "malilib-fabric-1.17-snap-21w05a-0.10.0-dev.21+beta.1.jar"
 side = "client"
 
 [download]
-url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/malilib-fabric-1.17-snap-20w51a-0.10.0-dev.21+beta.1.jar"
+url = "https://raw.githubusercontent.com/Queerbric/queerpack/1.17/mods/malilib-fabric-1.17-snap-21w05a-0.10.0-dev.21+beta.1.jar"
 hash-format = "sha256"
-hash = "0588d3957a75f0323e254990438086664f3be2720065e76755fd2502ebd10758"
+hash = "ecde957f27567ca4cd375335e26051eca9d2b1b37e52f60aa6e65c42b28b58d1"

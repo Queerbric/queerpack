@@ -99,12 +99,12 @@ metafile = true
 
 [[files]]
 file = "mods/litematica.toml"
-hash = "a640d96145ae52d9a96d63157ebd9600cea99369cea026ded7885c7fc85e6e67"
+hash = "47f4c7f1fd1094718955f7ac651dda4437508374f30c66f0cfb0cd601278610e"
 metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "885263d203b3c44f8313e1a8f78cc6be27bf347431eff43a7fc0c713830eac89"
+hash = "40e97739d8d09003a1c1b17c88e80ff3635f9b5b926849e58a015392a6b27739"
 metafile = true
 
 [[files]]
