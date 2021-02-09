@@ -1,9 +1,0 @@
-name  = "Mo' Structures"
-filename = "mostructures-1.0.1+mc.20w51a.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/PTGd6dWp/versions/1.0.1+mc.20w51a/mostructures-1.0.1+mc.20w51a.jar"
-hash-format = "sha256"
-hash = "771c17934dcae91bd45587ade7d22497d03c75f001269d13d83c4dd46c415e83"
-

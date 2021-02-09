@@ -49,7 +49,7 @@ metafile = true
 
 [[files]]
 file = "mods/cavebiomes-0.6.1.jar"
-hash = "ee191cfcb02cb323cbdc58262dae0c2fc3ce2066deea2ff94628c70990aabb84"
+hash = "df338ab18c662f19501827e9220c341e6e2bb28dc69627c534d522e562937644"
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
@@ -67,7 +67,7 @@ hash = "765c88f3e9167f4351008696212bb238e41bc0c92fa9d4b2e8bea5ed0a602334"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "4a890e733268aac28b1bf59a9bc99835f7e4fc16c4e64ffad66971cf952e88d3"
+hash = "ba93216630219479e94890ae2df4daa87d6e7aee46304d4405d38f944a0b27c5"
 metafile = true
 
 [[files]]
@@ -108,11 +108,6 @@ hash = "885263d203b3c44f8313e1a8f78cc6be27bf347431eff43a7fc0c713830eac89"
 metafile = true
 
 [[files]]
-file = "mods/mo-structures.toml"
-hash = "8f2bd6c20de37ca9017cf9e57b5ba27306ed146b0a316a7a2a2e9ce4fe0084ba"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.toml"
 hash = "6cc340a51c6ce84155622f2f048b1e3949aa3502571d1f4ba176f65f3041b308"
 metafile = true
@@ -128,8 +123,8 @@ hash = "8c42f4c8bec4e405e8145695e8dd6e9bff18f5f5d8def4730bd68df42813e014"
 metafile = true
 
 [[files]]
-file = "mods/riverredux-0.1.6.jar"
-hash = "dba73424e4f4e71e8987c3b80ab5d53560f5925295bd78885925305ae9fdc018"
+file = "mods/riverredux-0.2.0.jar"
+hash = "49671a86ece294b1f0c4307a98e29bcb79bf5e410119ed2aa95cd632af833f24"
 
 [[files]]
 file = "mods/shulkerease-1.0.0.jar"
