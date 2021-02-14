@@ -38,6 +38,10 @@ file = "mods/adabraniummod-2.0.1+21w03a.jar"
 hash = "6dd314beddd74a1daca04d12ca2cffaa153a10d64ced4c5f1bdf1157bd45ab72"
 
 [[files]]
+file = "mods/aurorasdecorations-1.0.0+21w05b.jar"
+hash = "594a09d84f2cb34d5b149d6669106226bfdaeb440c69cfb31142a61b7f73dfbc"
+
+[[files]]
 file = "mods/blockus.toml"
 hash = "c4069cbd1b4f399af4916345d45df7bf4bb8acfb10a7e83dcc79bf12931c780f"
 metafile = true
