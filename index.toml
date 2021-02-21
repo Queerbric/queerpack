@@ -66,8 +66,8 @@ hash = "2469c7d0b85962d45b6006700d09517ce901e2d8c9b91f4d3b52fa898a61cf95"
 metafile = true
 
 [[files]]
-file = "mods/ears-fabric-1.17-1.1.1.jar"
-hash = "765c88f3e9167f4351008696212bb238e41bc0c92fa9d4b2e8bea5ed0a602334"
+file = "mods/ears-fabric-1.17-1.2.0.jar"
+hash = "96cca1d26b5967e41ad76da132af041014d80ab4c0cf4c326dd7e25a423c52de"
 
 [[files]]
 file = "mods/fabric-api.toml"
