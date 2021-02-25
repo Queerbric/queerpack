@@ -1,0 +1,14 @@
+name = "Beacon Overhaul"
+filename = "BeaconOverhaul-1.3.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3212/299/BeaconOverhaul-1.3.0%2B1.17.jar"
+hash-format = "sha256"
+hash = "90e75c1da2fce9b9631be9ab183249eacffaf93b73a46aa35cffc0787b21efca"
+
+[update]
+[update.curseforge]
+file-id = 3212299
+project-id = 430382
+release-channel = "release"
