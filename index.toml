@@ -39,12 +39,7 @@ hash = "6dd314beddd74a1daca04d12ca2cffaa153a10d64ced4c5f1bdf1157bd45ab72"
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+21w05b.jar"
-hash = "c8dbbad1ee8219e14f0d3efced2d8c5cc81e041aeb0d5f8759d87f4900e533f5"
-
-[[files]]
-file = "mods/beacon-overhaul.toml"
-hash = "6ee9092bb47559d396b6b7c8c16ab36181bebe8b2c6b143bac012770dae3f937"
-metafile = true
+hash = "494303121a8dbe1493703c13798ae965180cfe4304c3db9733747b8da9369e3a"
 
 [[files]]
 file = "mods/blockus.toml"
