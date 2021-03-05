@@ -1,7 +1,7 @@
 .git/**
 .gitattributes
 .gitignore
-.githooks
+.githooks/**
 .mods/**
 mods/sodium-fabric-mc21w03a-0.1.1-SNAPSHOT.jar
 mods/malilib-fabric-1.17-snap-21w05a-0.10.0-dev.21+beta.1.jar

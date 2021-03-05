@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".githooks/pre-commit"
-hash = "f6d95ee09f44d3ee36e7ca48c275d0b8b3807a356c61bacb89927524f39d895d"
-
-[[files]]
 file = "config/WindowTitleChanger/config.json5"
 hash = "03df66490b396ee08a0ca10a95f67a7776acc8a1334d96bb14910b2a3f42a142"
 
