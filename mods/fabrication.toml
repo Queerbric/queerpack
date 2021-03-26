@@ -1,0 +1,14 @@
+name = "Fabrication"
+filename = "fabrication-1.3.4.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3227/648/fabrication-1.3.4.jar"
+hash-format = "sha512"
+hash = "150edd525c98d5a9c5de18cd5ac0ceb292703c626a85abb6a3a69a64beaef45b7932105e947f34afe59bc6576e9d1c734deedf9b24f187d0a062e68b4bb43fa9"
+
+[update]
+[update.curseforge]
+file-id = 3227648
+project-id = 414445
+release-channel = "release"

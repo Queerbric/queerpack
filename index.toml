@@ -17,6 +17,10 @@ file = "config/duyguji/vanilla.txt"
 hash = "2d972bee8fec47a965f0c6f064d7430ac835561e0a7f0437e552041644acec59"
 
 [[files]]
+file = "config/features.ini"
+hash = "c2703ce3c7aed71f5895d2a555a231368d3e0a2f2d59915c96f0dd8c807d2124"
+
+[[files]]
 file = "config/gotta_climb_fast.json"
 hash = "72b2d2de035a470a302e7c711b87ee4db20b0a2bad43a7e4426aed18e639bfc4"
 
@@ -77,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-mumblelink-mod-0.7.4.jar"
 hash = "5586e371fda3f3c3d73cded8f089e45c1b088730c3d0a0e28c789f1b282c07fa"
+
+[[files]]
+file = "mods/fabrication.toml"
+hash = "4c0d3a145bd6e3bb0ea26adf35969d1cc3f9e319fe581cbb70b12a0bcdebe4b0"
+metafile = true
 
 [[files]]
 file = "mods/illuminations-1.2.5.jar"
