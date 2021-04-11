@@ -1,8 +1,8 @@
 name = "Cauldron"
-filename = "cauldrons-1.1.1.jar"
+filename = "cauldrons-1.1.2+fabric-mc1.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/d94jcdPG/versions/1.1.1/cauldrons-1.1.1.jar"
-hash-format = "sha256"
-hash = "cb3b82122f9b8994988a6179232646a90344353d345d47e08026c2e3badc0e15"
+url = "https://cdn.modrinth.com/data/d94jcdPG/versions/1.1.2/cauldrons-1.1.2+fabric-mc1.17.jar"
+hash-format = "sha512"
+hash = "777f4be4c95a1490017bd5ff2bf9156112cde97e13b577d896f0c22e057822f7891a1e5a33ab02018600a8f34ea2f1fe21add5e1d65927a5ffff5fb574c07af5"

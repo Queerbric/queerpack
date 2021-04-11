@@ -33,31 +33,21 @@ file = "config/slightguimodifications/cts.groovy"
 hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
-file = "mods/adabranium.toml"
-hash = "a520f5badcabc502fb7ca0d4fe62adc8cc16e9c538f525a1bf3f98a12791e330"
-metafile = true
+file = "mods/adabraniummod-2.0.1+21w14a.jar"
+hash = "abeaaac51cbe849e47e45d488e8cf47256db1b48154c7041f715638c622d16cb"
 
 [[files]]
-file = "mods/adabraniummod-2.0.1+21w03a.jar"
-hash = "6dd314beddd74a1daca04d12ca2cffaa153a10d64ced4c5f1bdf1157bd45ab72"
+file = "mods/aurorasdecorations-1.0.0+21w14a.jar"
+hash = "ad0452004210e0a7c59ad263c086c3e2827aa2e988faab4a068d0a4851a636ac"
 
 [[files]]
-file = "mods/aurorasdecorations-1.0.0+21w05b.jar"
-hash = "3089a908aadbd98bcf517c93a507138566913cf1678d5297637518e298965268"
-
-[[files]]
-file = "mods/blockus.toml"
-hash = "c4069cbd1b4f399af4916345d45df7bf4bb8acfb10a7e83dcc79bf12931c780f"
-metafile = true
+file = "mods/blockus-2.1.0+21w14a.jar"
+hash = "7c341b7437b023b4dedcfaf13a177704dabb130c1fcad59ad2d02411f389fdb6"
 
 [[files]]
 file = "mods/cauldrons.toml"
-hash = "3d2625a1c5e35879dc2859d057f4d7160b2ba96437eb499ad1708a53b74f17a0"
+hash = "ca047929998499f84618de84ef0cd7d2ddf8de2cc50fd443eef1530d1535d9d5"
 metafile = true
-
-[[files]]
-file = "mods/cavebiomes-0.6.1.jar"
-hash = "df338ab18c662f19501827e9220c341e6e2bb28dc69627c534d522e562937644"
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
@@ -75,7 +65,7 @@ hash = "d636359f9e137b6de5eadf96ef927003f7861b4bfc6559a7198b4bc8ccf415a7"
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "ba93216630219479e94890ae2df4daa87d6e7aee46304d4405d38f944a0b27c5"
+hash = "66870876879a2f710f47622bb9b7c0423b6884252e1a27117b5c1ccee833ab3e"
 metafile = true
 
 [[files]]
@@ -83,17 +73,8 @@ file = "mods/fabric-mumblelink-mod-0.7.4.jar"
 hash = "5586e371fda3f3c3d73cded8f089e45c1b088730c3d0a0e28c789f1b282c07fa"
 
 [[files]]
-file = "mods/fabrication.toml"
-hash = "4c0d3a145bd6e3bb0ea26adf35969d1cc3f9e319fe581cbb70b12a0bcdebe4b0"
-metafile = true
-
-[[files]]
-file = "mods/illuminations-1.2.5.jar"
-hash = "881b3289dcc767369427dc0260f23c7e7069450fea7125260813ad93a6edbf17"
-
-[[files]]
 file = "mods/inspecio.toml"
-hash = "edc0412ed0f6e7199d5e6f812beb184d0ce76fb11a8697dd8d2685f2512d1cb1"
+hash = "65eb9f21ec36862317a394faf470bf220de8bf78d53f33db1be62af10d04b098"
 metafile = true
 
 [[files]]
@@ -102,8 +83,8 @@ hash = "ef31245adbd97a7724111a785e9c9ab49317267fd796cc26b8985bc6ce1dbcf0"
 metafile = true
 
 [[files]]
-file = "mods/lambdafoxes-fabric-1.0.0+20w51a.jar"
-hash = "17ea42f43655b3662ad07b40b53e7844236c74d92660fec7561523f9d07e15f9"
+file = "mods/lambdafoxes-1.0.0+21w14a.jar"
+hash = "719325db11d611f00bcc5e1f59612d88bbb57e5343559fefd6f466ae4fd6909f"
 
 [[files]]
 file = "mods/lightfooted.toml"
@@ -111,37 +92,26 @@ hash = "b7ba472e9fc8724331b899b3a1c3b9744feca075299c75dd6e78838673fb3566"
 metafile = true
 
 [[files]]
-file = "mods/litematica.toml"
-hash = "47f4c7f1fd1094718955f7ac651dda4437508374f30c66f0cfb0cd601278610e"
-metafile = true
-
-[[files]]
 file = "mods/malilib.toml"
-hash = "40e97739d8d09003a1c1b17c88e80ff3635f9b5b926849e58a015392a6b27739"
+hash = "0c255a1b7c26f226605842c8b8affd89ddd005f346f6c80a3bc21b49d9673bc0"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "6cc340a51c6ce84155622f2f048b1e3949aa3502571d1f4ba176f65f3041b308"
+hash = "6344978eb3209ce9eeb090b67b33c57f7357c129756a22039ede18c0b17d5361"
 metafile = true
 
 [[files]]
-file = "mods/pocket-tools.toml"
-hash = "b23bd785f68540055f7c37b582b7365bac05e6e8c9e6c13392de92102f4495fb"
-metafile = true
+file = "mods/pockettools-1.1.3.jar"
+hash = "85d6c131595a280117e8dd94ac9d6405e956647d959d3b08a1719821dcda4b15"
 
 [[files]]
-file = "mods/quicksand.toml"
-hash = "8c42f4c8bec4e405e8145695e8dd6e9bff18f5f5d8def4730bd68df42813e014"
-metafile = true
+file = "mods/quicksand-1.0.0.jar"
+hash = "6623477defa6400d63f7f028660db55de910d63ad905941b286f43b8239bf903"
 
 [[files]]
 file = "mods/riverredux-0.2.0.jar"
-hash = "49671a86ece294b1f0c4307a98e29bcb79bf5e410119ed2aa95cd632af833f24"
-
-[[files]]
-file = "mods/shulkerease-1.0.0.jar"
-hash = "4451efe0efc73c0c1eef38bab4f38935e737c10103970e31f91dde792878959e"
+hash = "0ffeee8b9237965f74864ee00f10da178e23e06f378b6f82d68185845604c601"
 
 [[files]]
 file = "mods/skinned-lanterns-fabric.toml"
@@ -149,13 +119,8 @@ hash = "c2aef35d27053499df65857d288a0db13b8a7c1a3aaeafa9d3989a026b8d36d9"
 metafile = true
 
 [[files]]
-file = "mods/sodium.toml"
-hash = "277a62e301bcf9e1088b7d3351cd11da9a2d91b724b9c2b5be62b30c667085ec"
-metafile = true
-
-[[files]]
-file = "mods/tesla-coil-fabric-1.0.0+20w49a.jar"
-hash = "8f871e461e76f9f25b3b04d982ebdcc96f6af77ed4e00dce13c8179c683eaa29"
+file = "mods/tesla-coil-1.0.0+21w14a.jar"
+hash = "74027899fa0e6235e5146ea0dcbfb160f61a8460b3fdfdc4d326386da147c58f"
 
 [[files]]
 file = "mods/veggieway-fabric.toml"

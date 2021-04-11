@@ -1,14 +1,8 @@
 name = "Mod Menu"
-filename = "modmenu-2.0.0-beta.1+build.2.jar"
+filename = "modmenu-2.0.0-beta.3.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3109/127/modmenu-2.0.0-beta.1+build.2.jar"
-hash-format = "murmur2"
-hash = "2369141172"
-
-[update]
-[update.curseforge]
-file-id = 3109127
-project-id = 308702
-release-channel = "beta"
+url = "https://maven.terraformersmc.com/releases/com/terraformersmc/modmenu/2.0.0-beta.3/modmenu-2.0.0-beta.3.jar"
+hash-format = "sha256"
+hash = "73cd3973e5e017f4fff011d2a6a4a0234643856bb304dc1c3e3ed78736a5ce69"
