@@ -1,14 +1,8 @@
 name = "Clear Despawn (Fabric)"
-filename = "cleardespawn-20w49a-fabric0.27.2-1.1.1.jar"
+filename = "cleardespawn-21w14a-fabric0.32.7-1.1.1.jar"
 side = "both"
 
 [download]
-url = "https://edge-service.overwolf.wtf/files/3131/349/cleardespawn-20w49a-fabric0.27.2-1.1.1.jar"
-hash-format = "murmur2"
-hash = "1462101398"
-
-[update]
-[update.curseforge]
-file-id = 3131349
-project-id = 308793
-release-channel = "beta"
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/21w14a-fabric0.32.7-1.1.1/cleardespawn-21w14a-fabric0.32.7-1.1.1.jar"
+hash-format = "sha512"
+hash = "9dccff5876ec4aecd5e706d6fc3f07f90c19023912be607b4f4e347ee80721b4840a51951ceaa286ddf597a2c1d6b15be4a8eba48908f970943595b6e2a7a122"

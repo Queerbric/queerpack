@@ -51,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/clear-despawn-fabric.toml"
-hash = "4da5a6b5c2d3c314c33553603bdefa9f9f0528f7ae3ce81ecf7b4c28bcb1e1ba"
+hash = "0823903fbb717e14cdd26d943a8c7942c73bd31ec64f88bed8841f577525e801"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "2469c7d0b85962d45b6006700d09517ce901e2d8c9b91f4d3b52fa898a61cf95"
+hash = "011f4e754ef0842d0dc3ac588f49bacde0a084ed3c1ae0df32d59eebb80dbc1e"
 metafile = true
 
 [[files]]
