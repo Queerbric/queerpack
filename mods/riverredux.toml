@@ -1,0 +1,8 @@
+name = "River Redux"
+filename = "riverredux-0.2.0.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3344/516/riverredux-0.2.0.jar"
+hash-format = "sha256"
+hash = "acd5e02595778bafc6fa13085a99afdde518d9dec15442ec51aa08c0e97d0ba5"

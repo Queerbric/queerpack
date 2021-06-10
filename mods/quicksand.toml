@@ -1,0 +1,8 @@
+name = "Quicksand"
+filename = "quicksand-1.0.2+fabric-mc1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1HzX1nfB/versions/1.0.2/quicksand-1.0.2+fabric-mc1.17.jar"
+hash-format = "sha512"
+hash = "b970787776f514b831331216c98b8512fda1789446dac12835fb480a143cac2313bfdb4fc361b166fb114498690f27a8ec8635f759f8c9f02700b6402730a023"

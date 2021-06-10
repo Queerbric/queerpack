@@ -1,8 +1,0 @@
-name = "Iron Bundles"
-filename = "ironbundles-1.0.1+20w49a.jar"
-side = "both"
-
-[download]
-url = "https://cdn.modrinth.com/data/GrvAgLaJ/versions/1.0.2+20w51a/ironbundles-1.0.2+20w51a.jar"
-hash-format = "sha256"
-hash = "6c33c9e1799b7ab36290503d15316ace60356137583d7e8e43c0e18c97abba27"

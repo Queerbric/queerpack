@@ -1,0 +1,14 @@
+name = "Blockus"
+filename = "blockus-2.2.0+1.17-rc1.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3341/612/blockus-2.2.0%2B1.17-rc1.jar"
+hash-format = "sha256"
+hash = "85ddb017789482653c29be44054d4b5bd6498e5cdaca4c25ec9fc15e610fefd5"
+
+[update]
+[update.curseforge]
+file-id = 3328104
+project-id = 312289
+release-channel = "release"

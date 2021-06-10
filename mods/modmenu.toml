@@ -1,8 +1,8 @@
 name = "Mod Menu"
-filename = "modmenu-2.0.0-beta.3.jar"
-side = "both"
+filename = "modmenu-2.0.0-beta.7.jar"
+side = "client"
 
 [download]
-url = "https://maven.terraformersmc.com/releases/com/terraformersmc/modmenu/2.0.0-beta.3/modmenu-2.0.0-beta.3.jar"
-hash-format = "sha256"
-hash = "73cd3973e5e017f4fff011d2a6a4a0234643856bb304dc1c3e3ed78736a5ce69"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.7/modmenu-2.0.0-beta.7.jar"
+hash-format = "sha512"
+hash = "d08ccef96f514813b577d1d1d246af546619cc8d8a21f058d5f920bb52477f98f2228ff80f1332891a96e7228812cc85dcca5217af0adacc8a8839780028eff1"

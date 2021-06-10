@@ -1,0 +1,8 @@
+name = "Cave Biomes"
+filename = "cavebiomes-0.6.3.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3344/491/cavebiomes-0.6.3.jar"
+hash-format = "sha256"
+hash = "c3990afd3e44ec719f32896435fabdc0a77b55d9fb122bacffcdb8583a99d479"

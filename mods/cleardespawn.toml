@@ -1,0 +1,8 @@
+name = "ClearDespawn-Fabric"
+filename = "cleardespawn-1.17-fabric0.34.9-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yoJJjRRE/versions/1.17-fabric0.34.9-1.1.1/cleardespawn-1.17-fabric0.34.9-1.1.1.jar"
+hash-format = "sha512"
+hash = "a9ca5a5457d86054dc34c9017f83e7ef9f6a66de071e7e7b2ac46d2bbc9109005f4b431f8c4f08bd2d159dd8b9ae79aff441ae4715aba1296dbeb6d02f8f2fbd"

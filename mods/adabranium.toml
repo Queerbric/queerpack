@@ -1,0 +1,14 @@
+name = "Adabranium"
+filename = "adabraniummod-2.1.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3345/491/adabraniummod-2.1.0%2B1.17.jar"
+hash-format = "sha256"
+hash = "9574f8f18d402d856bbe401601d0f62bd6afaf3d137e232a6c3ca23f70357549"
+
+[update]
+[update.curseforge]
+file-id = 3294199
+project-id = 361599
+release-channel = "release"

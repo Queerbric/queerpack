@@ -1,8 +1,8 @@
 name = "ClickThrough"
-filename = "clickthrough-21w14a-fabric0.32.7-0.4.jar"
+filename = "clickthrough-1.17-fabric0.34.9-0.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/21w14a-fabric0.32.7-0.4/clickthrough-21w14a-fabric0.32.7-0.4.jar"
+url = "https://cdn.modrinth.com/data/Z5b0cAlD/versions/1.17-fabric0.34.9-0.4/clickthrough-1.17-fabric0.34.9-0.4.jar"
 hash-format = "sha512"
-hash = "e43d28a6204d591d4c42acaee2f5b7f349392ced186e79c62c8764ca02c4f1310de4d20a8572f50805d3cbfe2304694160241a60fa67444900ea27ba9dfe0446"
+hash = "9158190a8526630afd6568da3f5eb7fbdc6d2b3fb52da4a511936efb1cb5238f69c06ece97291d18e22c8fc721f10a8e0ec86d6e1ef7ee235300a297026b2969"

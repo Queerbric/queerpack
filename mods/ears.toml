@@ -1,0 +1,9 @@
+name = "Ears"
+filename = "ears-fabric-1.17-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://github.com/unascribed/Ears/releases/download/v1.2.2/ears-fabric-1.17-1.2.2.jar"
+hash-format = "sha256"
+hash = "a2cd644c814e23d24dc452c503582e6f5fce2d47c085e8ad90cf42ad52acce60"
+
