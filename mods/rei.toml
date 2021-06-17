@@ -1,0 +1,8 @@
+name = "REI"
+filename = "RoughlyEnoughItems-6.0.251-alpha-fabric.jar"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3351/599/RoughlyEnoughItems-6.0.251-alpha-fabric.jar"
+hash-format = "sha256"
+hash = "8f195b6bb16835bacac1787a30fd90715bb8a1aa016f2a1a81c1be5262c2b851"

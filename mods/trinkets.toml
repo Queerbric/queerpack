@@ -1,0 +1,8 @@
+name = "Trinkets"
+filename = "trinkets-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/3.0.0/trinkets-3.0.0.jar"
+hash-format = "sha512"
+hash = "e5749ac8960f5cddb7dde567e9a50ae503bdc76b8042e5048ed57eef22030f48af367b299b4c22407391f2ad1ac11e785d9de3ddcb34c7bdb5fd212306d0d9ec"

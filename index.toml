@@ -76,6 +76,11 @@ hash = "7dbc0dcd95ad2e01518be4da63be0542381cf3ba02f5757b6f52bdaee265f068"
 metafile = true
 
 [[files]]
+file = "mods/elytra-trinket.toml"
+hash = "e6b4813accfc3b8f43bcae2d0a8c048a77bfa372cf3b741b762e51b4657f5861"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.toml"
 hash = "87d9c526826fe66b4134e447d48da9aab1ed214edcbbf6828dad8d4e6908edc7"
 metafile = true
@@ -122,6 +127,11 @@ hash = "1f1bb2435476c8954276d4a000ba51bd822b09c649a887670d863744a7c3ccf4"
 metafile = true
 
 [[files]]
+file = "mods/rei.toml"
+hash = "f0b5f1f041671b6e7a1f474e5cbdb7c2fd49ab10bffe8ac34ce65ce3c50e0db0"
+metafile = true
+
+[[files]]
 file = "mods/riverredux.toml"
 hash = "40e12e428dc8126a02f6e523e5a26970058ddc586cbf02d5395b9a1a93dde606"
 metafile = true
@@ -129,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/tesla-coil-1.0.0+1.17.jar"
 hash = "de43874d0833c55c610a96528d0f62579cadc29ff41723ed1221fe74fa30feb5"
+
+[[files]]
+file = "mods/trinkets.toml"
+hash = "f570d6b78b71d325ac6386609595a2dfbfcd985c3f3ef60cb55f37a082c16d38"
+metafile = true
 
 [[files]]
 file = "mods/veggieway-fabric.toml"

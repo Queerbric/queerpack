@@ -1,0 +1,8 @@
+name = "Elytra Trinket"
+filename = "elytratrinket-fabric-2.0.1-1.17.jar"
+side = "both"
+
+[download]
+url = "https://media.forgecdn.net/files/3343/240/elytratrinket-fabric-2.0.1-1.17.jar"
+hash-format = "sha256"
+hash = "dfa71807ee4a3d34399bf2d0808d3d0101d08657bd763580b3d3c68affeaa4ed"
