@@ -1,0 +1,8 @@
+name = "Cloth Config"
+filename = "cloth-config-5.0.34-fabric.jar"
+side = "client"
+
+[download]
+url = "https://media.forgecdn.net/files/3329/246/cloth-config-5.0.34-fabric.jar"
+hash-format = "sha256"
+hash = "16abbb55b28947eee08ba0c30843bf2bf1280a96bdaad64ad9adaf8be2e110e2"

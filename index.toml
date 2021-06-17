@@ -42,6 +42,11 @@ hash = "f224ba4b5b0ded55861be290f3a27cf9f81832dca9ad453c9a122fae3926f9ac"
 metafile = true
 
 [[files]]
+file = "mods/architectury.toml"
+hash = "1cca93be5f16d65ee7273e8ae1bb3ac3557247e48fccd9ff250b6f985067f2ab"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations-1.0.0+1.17.jar"
 hash = "0734b590a45aa0066d8702139552db470d65f78146b329450b2d6463072061cd"
 
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.toml"
 hash = "000f0eb2c1a3a3eb070e2312c84fb5ce1dd4a9dbf920f788d56da8fe512d40c2"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "68d6d0ea893b19d45b0a96a1616d45cfb494f4025b6a7dbdba483692377645a2"
 metafile = true
 
 [[files]]
