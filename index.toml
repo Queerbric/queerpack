@@ -128,6 +128,11 @@ hash = "de73ac15677faa3a532c60b3fa61dd1c56052dd4ee8c26c463f7a94fb0987cfa"
 metafile = true
 
 [[files]]
+file = "mods/packages.toml"
+hash = "815417b69fa8e2be06fa69bfd655d8c6cffb4d636281985270c496a7101475c6"
+metafile = true
+
+[[files]]
 file = "mods/pockettools-1.1.3.jar"
 hash = "85d6c131595a280117e8dd94ac9d6405e956647d959d3b08a1719821dcda4b15"
 

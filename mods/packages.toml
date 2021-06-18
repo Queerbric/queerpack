@@ -1,0 +1,8 @@
+name = "Packages"
+filename = "packages-1.17-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10DZYVis/versions/1.2.0/packages-1.17-1.2.0.jar"
+hash-format = "sha512"
+hash = "56a8538744af1c7934b068bf4ff659833ed6eecc2e5ef5f8ce79674194fd7ea639cd4a7c378287303a4dbc27249615ebc53b9be9d6cb0e596241058ad16604da"
