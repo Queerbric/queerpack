@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.17.jar"
-hash = "67dadfaf9923d6139ca9b6a4738f25daa65e04fe60f2bf37c9a5bfcf4c735e6e"
+hash = "8aa08392af39e0c0c4b382dfb95e9b167fa67f31913a50dd279c2cf002b241f5"
 
 [[files]]
 file = "mods/blockus.toml"
@@ -64,6 +64,10 @@ metafile = true
 file = "mods/cavebiomes.toml"
 hash = "9507ad78fa31ffbb02a7ff6e32623a741db0894125a3f2973dc541abeb7584b5"
 metafile = true
+
+[[files]]
+file = "mods/chime-1.1.2.jar"
+hash = "fe0061e97879c436fc8c5bfcdacd1358db5a73c5fe1d918e739f8d389ecefdc4"
 
 [[files]]
 file = "mods/cleardespawn.toml"
@@ -170,5 +174,5 @@ hash = "00ffda19bfa98d2793c97fb74c514eba70f0d21f8a4ff5278a30311cc755f696"
 metafile = true
 
 [[files]]
-file = "resourcepacks/twemoji_font.zip"
-hash = "db74c1c06175e89578e577ee4bc28aaf1129abdb3e8fb9cae5a8c984252618a9"
+file = "resourcepacks/axolotl-buckets.toml"
+hash = "f41d39d1b91bb40dcd3f07cdeca913c0ac51a54882953804b896ac74cf17c67f"

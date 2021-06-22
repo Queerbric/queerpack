@@ -1,0 +1,8 @@
+name = "Axolotl Buckets"
+filename = "axolotl-buckets.zip"
+side = "client"
+
+[download]
+url = "https://static.planetminecraft.com/files/resource_media/texture/axolotl-buckets.zip"
+hash-format = "sha256"
+hash = "c2c255e2c5d000fdedc3fc1348381ce142310827f2335c32827578bcc98d4ccd"
