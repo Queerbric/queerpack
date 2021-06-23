@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.17.jar"
-hash = "8aa08392af39e0c0c4b382dfb95e9b167fa67f31913a50dd279c2cf002b241f5"
+hash = "8a356b5b5e333dfc3ff4a0770b481788d95f3bf59eb270c6bc720900827bc821"
 
 [[files]]
 file = "mods/blockus.toml"
