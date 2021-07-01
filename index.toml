@@ -122,6 +122,11 @@ hash = "b7ba472e9fc8724331b899b3a1c3b9744feca075299c75dd6e78838673fb3566"
 metafile = true
 
 [[files]]
+file = "mods/lovely_snails.toml"
+hash = "a0a51fe4d7e83400b4b7ee38ce9305c45dab71b13333414ad274ba097bf12f7c"
+metafile = true
+
+[[files]]
 file = "mods/malilib.toml"
 hash = "97c36e8cbb3429e8eb2fb55410b5e6434ac4190b8a2efc78f97136b0b7925022"
 metafile = true

@@ -1,0 +1,8 @@
+name = "Lovely Snails"
+filename = "lovely_snails-1.0.0+1.17.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hBVVhStr/versions/1.0.0+1.17/lovely_snails-1.0.0+1.17.jar"
+hash-format = "sha512"
+hash = "992281b6863323810f398d51642876adaf1b9af0e71535dde13e21558de30676c8f0fd54f99d4ab8dff327a42c52f25fa20a3e1e6aaa3ed113f4bd0cdd3a6d18"
