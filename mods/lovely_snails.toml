@@ -1,8 +1,8 @@
 name = "Lovely Snails"
-filename = "lovely_snails-1.0.0+1.17.jar"
+filename = "lovely_snails-1.0.1+1.17.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hBVVhStr/versions/1.0.0+1.17/lovely_snails-1.0.0+1.17.jar"
+url = "https://cdn.modrinth.com/data/hBVVhStr/versions/1.0.1+1.17/lovely_snails-1.0.1+1.17.jar"
 hash-format = "sha512"
-hash = "992281b6863323810f398d51642876adaf1b9af0e71535dde13e21558de30676c8f0fd54f99d4ab8dff327a42c52f25fa20a3e1e6aaa3ed113f4bd0cdd3a6d18"
+hash = "e238e5f7d91b4c4d801abe85b0493454bc14c73a76dbe6cad0ffc201c708b372b053e62d2358b50ff4576cceab8a45b63fc981e615d1ec526061e0ad3c12b9b3"

@@ -48,7 +48,7 @@ metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.17.jar"
-hash = "1ce1ced65e4a71f4f9fc7bc2774bb0a509428e83b80670738b97742a3e45e803"
+hash = "82c637694b821746903553bd97fb9c8168028614e9b5609724d52ce73959361d"
 
 [[files]]
 file = "mods/blockus.toml"
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/lovely_snails.toml"
-hash = "a0a51fe4d7e83400b4b7ee38ce9305c45dab71b13333414ad274ba097bf12f7c"
+hash = "6dd01e02fcae270123f8b82b64882c29f7c47c6c9b3537448d7c3135c3a53fb2"
 metafile = true
 
 [[files]]
