@@ -1,8 +1,8 @@
 name = "MaLiLib"
-filename = "malilib-fabric-1.17-pre4-0.10.0-dev.22+beta.2.jar"
+filename = "malilib-fabric-1.17.1-0.10.0-dev.23.jar"
 side = "client"
 
 [download]
-url = "https://masa.dy.fi/mcmods/malilib/malilib-fabric-1.17-pre4-0.10.0-dev.22+beta.2.jar"
+url = "https://media.forgecdn.net/files/3379/260/malilib-fabric-1.17.1-0.10.0-dev.23.jar"
 hash-format = "sha256"
-hash = "dbe7a45b884bbee9c44622321a7723083e9f89acd917e506aa0218119a1edb7d"
+hash = "8a8a1371fb47b5891c16cd044d8d2e4fd40d9bca9766a86c6d172dfbaf5fd46e"

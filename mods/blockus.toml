@@ -1,11 +1,11 @@
 name = "Blockus"
-filename = "blockus-2.2.0+1.17-rc1.jar"
+filename = "blockus-2.2.6+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://media.forgecdn.net/files/3341/612/blockus-2.2.0%2B1.17-rc1.jar"
+url = "https://media.forgecdn.net/files/3381/862/blockus-2.2.6%2B1.17.1.jar"
 hash-format = "sha256"
-hash = "85ddb017789482653c29be44054d4b5bd6498e5cdaca4c25ec9fc15e610fefd5"
+hash = "157c1ea45de40e67ab9cc0d7fd280ea36c5870cdefa354cc5867479669740448"
 
 [update]
 [update.curseforge]

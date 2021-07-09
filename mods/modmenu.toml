@@ -1,8 +1,8 @@
 name = "Mod Menu"
-filename = "modmenu-2.0.0-beta.7.jar"
-side = "client"
+filename = "modmenu-2.0.2.jar"
+side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.0-beta.7/modmenu-2.0.0-beta.7.jar"
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/2.0.2/modmenu-2.0.2.jar"
 hash-format = "sha512"
-hash = "d08ccef96f514813b577d1d1d246af546619cc8d8a21f058d5f920bb52477f98f2228ff80f1332891a96e7228812cc85dcca5217af0adacc8a8839780028eff1"
+hash = "2d66d55e114ee19877ffd3ad6ac901a3290b6b4f0e9000c7a3a8f0a5f401ea3a29bccafea7ea06a7d604057d6be9319f24752e456796624b2e36d0bcce062504"

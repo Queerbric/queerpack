@@ -1,11 +1,11 @@
 name = "Adabranium"
-filename = "adabraniummod-2.1.0+1.17.jar"
+filename = "adabraniummod-2.1.1+1.17.1.jar"
 side = "both"
 
 [download]
-url = "https://media.forgecdn.net/files/3345/491/adabraniummod-2.1.0%2B1.17.jar"
+url = "https://media.forgecdn.net/files/3378/780/adabraniummod-2.1.1%2B1.17.1.jar"
 hash-format = "sha256"
-hash = "9574f8f18d402d856bbe401601d0f62bd6afaf3d137e232a6c3ca23f70357549"
+hash = "2f67c38426fb5a5cab2e867412697915cb46e8be0252f3afab7806fc7fe2c931"
 
 [update]
 [update.curseforge]

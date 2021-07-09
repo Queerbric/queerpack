@@ -1,11 +1,11 @@
 name = "The Veggie Way [FABRIC]"
-filename = "TheVeggieWay_Fabric_20w46a-1.1.0.jar"
+filename = "TheVeggieWay_Fabric-1.17.1-1.1.12.jar"
 side = "both"
 
 [download]
-url = "https://edge.forgecdn.net/files/3118/738/TheVeggieWay_Fabric_20w46a-1.1.0.jar"
-hash-format = "murmur2"
-hash = "983424502"
+url = "https://media.forgecdn.net/files/3379/330/TheVeggieWay_Fabric-1.17.1-1.1.12.jar"
+hash-format = "sha256"
+hash = "e400d1127b19fc347080439e1efe3c2bf799435e58f94313e1a30ec4a47f48fb"
 
 [update]
 [update.curseforge]

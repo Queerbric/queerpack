@@ -1,8 +1,8 @@
 name = "Architectury"
-filename = "architectury-2.0.9-fabric.jar"
+filename = "architectury-2.1.20-fabric.jar"
 side = "client"
 
 [download]
-url = "https://media.forgecdn.net/files/3351/375/architectury-2.0.9-fabric.jar"
+url = "https://media.forgecdn.net/files/3376/69/architectury-2.1.20-fabric.jar"
 hash-format = "sha256"
-hash = "16ad7df2d8c13dc0f00cc6f35eaaa547b610897f8a0c2454eddfc0c75d89d93d"
+hash = "e21f8fa7c089ac94f192621199199345c45a32eda089f4b5ab694d3d1c52576b"

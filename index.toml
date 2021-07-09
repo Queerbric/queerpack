@@ -38,21 +38,21 @@ hash = "5edb787d959d23adaae9c95f8954e23fce1fcd70c64c0d7a47754cdaefa02cb7"
 
 [[files]]
 file = "mods/adabranium.toml"
-hash = "f224ba4b5b0ded55861be290f3a27cf9f81832dca9ad453c9a122fae3926f9ac"
+hash = "d71832354dd70b610e2f19be2a5481f348630edde2de1c2cb50a810aac239e1c"
 metafile = true
 
 [[files]]
 file = "mods/architectury.toml"
-hash = "1cca93be5f16d65ee7273e8ae1bb3ac3557247e48fccd9ff250b6f985067f2ab"
+hash = "a592c4c169de475b7b5f80bccc71b3bc2c79057caf9ffff807653f272427eb3a"
 metafile = true
 
 [[files]]
 file = "mods/aurorasdecorations-1.0.0+1.17.jar"
-hash = "82c637694b821746903553bd97fb9c8168028614e9b5609724d52ce73959361d"
+hash = "bf24e9da140b695242c8301f0340e62457afc09c7a59413c61a9e08c0c7e624e"
 
 [[files]]
 file = "mods/blockus.toml"
-hash = "d6a8320af0b6eaf2984aeac850dc4cb989ed45f28a7279b7fa2c6653ce93b519"
+hash = "c5495e2385c3fb5293280fb0c13531470a89a9974ae62200e9e6483d5175b17b"
 metafile = true
 
 [[files]]
@@ -71,12 +71,12 @@ hash = "fe0061e97879c436fc8c5bfcdacd1358db5a73c5fe1d918e739f8d389ecefdc4"
 
 [[files]]
 file = "mods/cleardespawn.toml"
-hash = "015509d75adc56d38b2f96d9866b3c32a559137ae3b01611648663dfc553e8f8"
+hash = "bb98b23adf5016ad08f0ed65f9a5271f7175eead85a1e7ddc87a6577c000d997"
 metafile = true
 
 [[files]]
 file = "mods/clickthrough.toml"
-hash = "000f0eb2c1a3a3eb070e2312c84fb5ce1dd4a9dbf920f788d56da8fe512d40c2"
+hash = "732776b2d33886c3b00497be87166c6a14defcc31a48f00ebb25f7658d400d80"
 metafile = true
 
 [[files]]
@@ -96,12 +96,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.toml"
-hash = "87d9c526826fe66b4134e447d48da9aab1ed214edcbbf6828dad8d4e6908edc7"
+hash = "26d0383c3572db40441295605596919933afea20320455c0f61b765e399ef4ed"
 metafile = true
 
 [[files]]
 file = "mods/fabric-mumblelink-mod-0.7.4.jar"
 hash = "5586e371fda3f3c3d73cded8f089e45c1b088730c3d0a0e28c789f1b282c07fa"
+
+[[files]]
+file = "mods/illuminations.toml"
+hash = "93e908a1b5554377b21a79f75ff08bdee2dced87610a6fbdd588f47091e3fd63"
+metafile = true
 
 [[files]]
 file = "mods/inspecio.toml"
@@ -128,12 +133,12 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.toml"
-hash = "97c36e8cbb3429e8eb2fb55410b5e6434ac4190b8a2efc78f97136b0b7925022"
+hash = "8060f4ac25e8e99d9ba9ec9f4c0317f985edaba1f9a3199d6395f12b77f4a551"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.toml"
-hash = "de73ac15677faa3a532c60b3fa61dd1c56052dd4ee8c26c463f7a94fb0987cfa"
+hash = "49ed6953479590e60b78575990ff37f602bd957a31bc6d6bc0589ea7c1ee1224"
 metafile = true
 
 [[files]]
@@ -169,13 +174,12 @@ file = "mods/tesla-coil-1.0.0+1.17.jar"
 hash = "de43874d0833c55c610a96528d0f62579cadc29ff41723ed1221fe74fa30feb5"
 
 [[files]]
-file = "mods/trinkets.toml"
-hash = "f570d6b78b71d325ac6386609595a2dfbfcd985c3f3ef60cb55f37a082c16d38"
-metafile = true
+file = "mods/trinkets-3.0.0.jar"
+hash = "8c01107a60d5e18af449e565a04e5d56ed3610076677df939e40107422c36c8f"
 
 [[files]]
 file = "mods/veggieway-fabric.toml"
-hash = "00ffda19bfa98d2793c97fb74c514eba70f0d21f8a4ff5278a30311cc755f696"
+hash = "dc734925c1a4abc67bbe7b2e408e7dc63442fbd4fb03f175252f9a19af418bf6"
 metafile = true
 
 [[files]]
