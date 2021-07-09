@@ -1,6 +1,6 @@
 name = "Cloth Config"
 filename = "cloth-config-5.0.34-fabric.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://media.forgecdn.net/files/3329/246/cloth-config-5.0.34-fabric.jar"

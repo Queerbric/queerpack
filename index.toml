@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.toml"
-hash = "68d6d0ea893b19d45b0a96a1616d45cfb494f4025b6a7dbdba483692377645a2"
+hash = "69e17979ee07ba3219111824cd9975fe175d5659691f69fa12a5785373e409d3"
 metafile = true
 
 [[files]]
