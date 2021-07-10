@@ -128,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/lovely_snails.toml"
-hash = "6dd01e02fcae270123f8b82b64882c29f7c47c6c9b3537448d7c3135c3a53fb2"
+hash = "bc3613d231952ddf397380d51f9289cd9143622b27bfd3b76bad2bf313075887"
 metafile = true
 
 [[files]]
