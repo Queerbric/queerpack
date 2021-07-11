@@ -119,7 +119,7 @@ hash = "51f04a14b98f9fbd9f820aefa69362c196938ee53fd9df3f6f7ce50d38b157fb"
 
 [[files]]
 file = "mods/lambdafoxes-1.0.0+1.17.jar"
-hash = "5faf24e41552a63235b810db4b87d803fbfe4ca3ba5c3d2d65d753da04528db4"
+hash = "57e7091f93e14202930280667c1c08f094327ccda02d8c8717709e2bf793e840"
 
 [[files]]
 file = "mods/lightfooted.toml"
@@ -171,7 +171,7 @@ hash = "9b05f5a4c7b2f1b30d11b27e4a2f365c28512e8383dd503882c5a1e687af792a"
 
 [[files]]
 file = "mods/tesla-coil-1.0.0+1.17.jar"
-hash = "de43874d0833c55c610a96528d0f62579cadc29ff41723ed1221fe74fa30feb5"
+hash = "a4a825320f648a34b03d5c1922d3e147e70abdae76c8eed347d8fd6584e38bb4"
 
 [[files]]
 file = "mods/trinkets-3.0.0.jar"
