@@ -1,8 +1,8 @@
 name = "Illuminations"
-filename = "illuminations-1.5.2.jar"
+filename = "illuminations-1.6.jar"
 side = "client"
 
 [download]
-url = "https://media.forgecdn.net/files/3381/387/illuminations-1.5.2.jar"
+url = "https://media.forgecdn.net/files/3385/132/illuminations-1.6.jar"
 hash-format = "sha256"
-hash = "5eb65d90283ed1dea751d330e259ad5795dc554ee85c6976da5393e91c2b1987"
+hash = "68074b3665842656b32aec7eba679d2c9fd37470abe4cc668c9e0c47189a662b"

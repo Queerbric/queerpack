@@ -105,7 +105,7 @@ hash = "5586e371fda3f3c3d73cded8f089e45c1b088730c3d0a0e28c789f1b282c07fa"
 
 [[files]]
 file = "mods/illuminations.toml"
-hash = "93e908a1b5554377b21a79f75ff08bdee2dced87610a6fbdd588f47091e3fd63"
+hash = "4efbf21454db879ff8739d6f897fd8e1dd17016e7200e63b595241f36369086b"
 metafile = true
 
 [[files]]
@@ -174,8 +174,9 @@ file = "mods/tesla-coil-1.0.0+1.17.jar"
 hash = "8cf9e503d91a531556800ddd6fb5c6115c79009cf700e4b04c9b5b1ee5a76f68"
 
 [[files]]
-file = "mods/trinkets-3.0.0.jar"
-hash = "8c01107a60d5e18af449e565a04e5d56ed3610076677df939e40107422c36c8f"
+file = "mods/trinkets.toml"
+hash = "50645d72af460b55c990291db2c906fffc3af95dd32d654fed174e0163df970e"
+metafile = true
 
 [[files]]
 file = "mods/veggieway-fabric.toml"
