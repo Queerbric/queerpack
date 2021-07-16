@@ -1,8 +1,8 @@
 name = "Trinkets"
-filename = "trinkets-3.0.1.jar"
+filename = "trinkets-3.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5aaWibi9/versions/3.0.1/trinkets-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/3.0.2/trinkets-3.0.2.jar"
 hash-format = "sha512"
-hash = "22d856d428ad24d17dffabedf8a52d1ec7887618b106b87e04611df2262a509486ee8c1700d5888ae76f0a18b1855690181293dbb74036b68b4ada5eea78539b"
+hash = "3293dc61731facfeb777d49c7119d87316d1364f8a9d2de4e47f40a6198e13b795633f5b6e37aff4ce06ea72844bf344fcd9feffd878d67b02dbf4d102568ed2"

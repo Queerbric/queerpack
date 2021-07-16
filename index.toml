@@ -175,7 +175,7 @@ hash = "8cf9e503d91a531556800ddd6fb5c6115c79009cf700e4b04c9b5b1ee5a76f68"
 
 [[files]]
 file = "mods/trinkets.toml"
-hash = "50645d72af460b55c990291db2c906fffc3af95dd32d654fed174e0163df970e"
+hash = "f7399c067882a5b3b5c4b144805b7698e80cc10c3cea1185679a8fdd3bc53730"
 metafile = true
 
 [[files]]
