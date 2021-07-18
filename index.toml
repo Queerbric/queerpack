@@ -118,6 +118,11 @@ file = "mods/ironbundles-1.0.2+1.17.jar"
 hash = "51f04a14b98f9fbd9f820aefa69362c196938ee53fd9df3f6f7ce50d38b157fb"
 
 [[files]]
+file = "mods/krypton.toml"
+hash = "dc31a1f6165b6a006b6fda5e19b20524ebbf154a18c3a710352f7e877bd6bc8c"
+metafile = true
+
+[[files]]
 file = "mods/lambdafoxes-1.0.0+1.17.jar"
 hash = "57e7091f93e14202930280667c1c08f094327ccda02d8c8717709e2bf793e840"
 
